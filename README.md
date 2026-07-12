@@ -19,7 +19,7 @@ This repository collects prefectural-scale circular society system design models
 
 | フォルダ | モデル名 | 対象地域 | 状態 |
 |---------|---------|---------|------|
-| [`BiwakoSystem2.0/`](./BiwakoSystem2.0/) | 琵琶湖システム2.0 | 滋賀県 | v2.0公開中 |
+| [`BiwakoSystem2.0/`](./BiwakoSystem2.0/) | 琵琶湖システム2.0 | 滋賀県 | v3.0公開中 |
 
 *他地域への適用を検討する場合は、各地域の農業廃棄物・バイオマスエネルギー・産業構造に合わせた再設計が必要です。CC BY-SA 4.0に従い出典を明記した上で、改変版を同一ライセンスで公開してください。*
 
