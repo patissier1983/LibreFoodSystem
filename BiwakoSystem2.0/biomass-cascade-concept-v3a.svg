@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1400 923.82977"
+   width="1400"
+   height="923.82977"
+   version="1.1"
+   font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', 'Noto Sans CJK JP', sans-serif"
+   id="svg150"
+   sodipodi:docname="biomass-cascade-concept-v3a.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="biomass-cascade-concept-v3a.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview150"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3293607"
+     inkscape:cx="591.26163"
+     inkscape:cy="326.84883"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="1180"
+     inkscape:window-y="2151"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg150" />
+  <defs
+     id="defs9">
+    <marker
+       id="aP1"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#c0440a"
+         id="path1" />
+    </marker>
+    <marker
+       id="aP2"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#b08000"
+         id="path2" />
+    </marker>
+    <marker
+       id="aHW"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a5b9a"
+         id="path3" />
+    </marker>
+    <marker
+       id="aMat"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path4" />
+    </marker>
+    <marker
+       id="aCO2"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a8090"
+         id="path5" />
+    </marker>
+    <marker
+       id="aElec"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#c79100"
+         id="path6" />
+    </marker>
+    <marker
+       id="aGas"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#888888"
+         id="path7" />
+    </marker>
+    <marker
+       id="aG"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#1a6030"
+         id="path8" />
+    </marker>
+    <linearGradient
+       id="ssfG"
+       x1="529.20752"
+       y1="483.66812"
+       x2="529.20752"
+       y2="654.51788"
+       gradientTransform="matrix(1.2186145,0,0,0.82060403,43.410515,12.585656)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#edfaf5"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="#eef2fa"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="ssfGrad"
+       x1="263.18365"
+       y1="301.06351"
+       x2="263.18365"
+       y2="496.47079"
+       gradientTransform="matrix(1.1360888,0,0,1.175814,1188,498.66942)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#edfaf5"
+         id="stop5" />
+      <stop
+         offset="100%"
+         style="stop-color:#eef2fa"
+         id="stop6" />
+    </linearGradient>
+    <marker
+       id="aMat-9"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path4-4" />
+    </marker>
+    <marker
+       id="aG-5"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#1a6030"
+         id="path8-5" />
+    </marker>
+    <marker
+       id="aElec-0"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#c79100"
+         id="path6-9" />
+    </marker>
+    <marker
+       id="aHW-8"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a5b9a"
+         id="path3-2" />
+    </marker>
+    <marker
+       id="aG-51"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#1a6030"
+         id="path8-7" />
+    </marker>
+    <marker
+       id="aHW-3"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a5b9a"
+         id="path3-22" />
+    </marker>
+    <marker
+       id="aMat-5"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path4-42" />
+    </marker>
+    <marker
+       id="marker1"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path1-0" />
+    </marker>
+    <marker
+       id="aHW-9"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a5b9a"
+         id="path3-7" />
+    </marker>
+    <marker
+       id="marker2"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path2-3" />
+    </marker>
+    <marker
+       id="marker5"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path5-7" />
+    </marker>
+    <marker
+       id="aCO2-2"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a8090"
+         id="path6-6" />
+    </marker>
+    <marker
+       id="aCO2-6"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#2a8090"
+         id="path5-5" />
+    </marker>
+    <marker
+       id="marker7"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path7-0" />
+    </marker>
+    <marker
+       id="marker8"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path8-1" />
+    </marker>
+    <marker
+       id="marker9"
+       markerWidth="9"
+       markerHeight="7"
+       refX="7"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 9 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,3.5 0,7 Z"
+         fill="#8b4513"
+         id="path9" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="1400"
+     height="923.82977"
+     fill="#ffffff"
+     id="rect9"
+     style="stroke-width:1"
+     sodipodi:insensitive="true" />
+  <!-- TITLE -->
+  <text
+     x="700"
+     y="30"
+     text-anchor="middle"
+     font-size="17px"
+     font-weight="700"
+     fill="#1f3864"
+     id="text9">バイオマスカスケード発電プラント　概念図 v3.0【新設版 2A：抽気復水タービン】</text>
+  <text
+     x="700"
+     y="49"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text10">Biomass Cascade Power Plant — Concept v3.0 | CC BY-SA 4.0 | librefoodsystem.org</text>
+  <!-- LEGEND -->
+  <rect
+     x="1127.7872"
+     y="96.15966"
+     width="236"
+     height="172"
+     rx="8"
+     fill="#fafafa"
+     stroke="#bbbbbb"
+     stroke-width="1"
+     id="rect10" />
+  <text
+     x="1137.7872"
+     y="113.14893"
+     font-size="11px"
+     font-weight="700"
+     fill="#333333"
+     id="text11">凡例 / Legend</text>
+  <line
+     x1="1137.7872"
+     y1="127.14893"
+     x2="1167.7872"
+     y2="127.14893"
+     stroke="#c0440a"
+     stroke-width="3"
+     id="line11" />
+  <text
+     x="1173.7872"
+     y="130.14893"
+     font-size="8.5px"
+     fill="#333333"
+     id="text12">P1 高圧蒸気 160–180℃ / 1.0 MPa</text>
+  <line
+     x1="1137.7872"
+     y1="143.14894"
+     x2="1167.7872"
+     y2="143.14894"
+     stroke="#b08000"
+     stroke-width="3"
+     id="line12" />
+  <text
+     x="1173.7872"
+     y="146.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text13">P2 中圧蒸気 110–120℃ / 0.2 MPa</text>
+  <line
+     x1="1137.7872"
+     y1="159.14894"
+     x2="1167.7872"
+     y2="159.14894"
+     stroke="#2a5b9a"
+     stroke-width="3"
+     id="line13" />
+  <text
+     x="1173.7872"
+     y="162.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text14">温水ループ・冷却水（30–55℃）</text>
+  <line
+     x1="1137.7872"
+     y1="175.14894"
+     x2="1167.7872"
+     y2="175.14894"
+     stroke="#8b4513"
+     stroke-width="3"
+     id="line14" />
+  <text
+     x="1173.7872"
+     y="178.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text15">物質・材料フロー</text>
+  <line
+     x1="1137.7872"
+     y1="191.14894"
+     x2="1167.7872"
+     y2="191.14894"
+     stroke="#2a8090"
+     stroke-width="3"
+     id="line15" />
+  <text
+     x="1173.7872"
+     y="194.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text16">CO₂フロー（発酵 ≈ 純CO₂）</text>
+  <line
+     x1="1137.7872"
+     y1="207.14894"
+     x2="1167.7872"
+     y2="207.14894"
+     stroke="#c79100"
+     stroke-width="3"
+     id="line16" />
+  <text
+     x="1173.7872"
+     y="210.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text17">電力</text>
+  <line
+     x1="1137.7872"
+     y1="223.14894"
+     x2="1167.7872"
+     y2="223.14894"
+     stroke="#888888"
+     stroke-width="3"
+     id="line17" />
+  <text
+     x="1173.7872"
+     y="226.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text18">ボイラー排ガス（リグニン乾燥）</text>
+  <text
+     x="1137.7872"
+     y="243.14894"
+     font-size="8.5px"
+     fill="#333333"
+     id="text19">CV = 調節弁（コントロールバルブ）</text>
+  <text
+     x="1137.7872"
+     y="259.14893"
+     font-size="8.5px"
+     font-weight="700"
+     fill="#2a8090"
+     id="text20">★ 炭酸化は追加熱源不要（常温・常圧）</text>
+  <!-- ================= ENERGY CORE BAND ================= -->
+  <text
+     x="53.026894"
+     y="87.265686"
+     font-size="11px"
+     font-weight="700"
+     fill="#1f3864"
+     id="text21">■ エネルギー基幹部（発電・蒸気供給）</text>
+  <!-- Boiler -->
+  <g
+     id="g152"
+     transform="translate(4,-10.255229)">
+    <rect
+       x="44.255318"
+       y="106.91489"
+       width="150"
+       height="112"
+       rx="8"
+       fill="#eef0f0"
+       stroke="#606868"
+       stroke-width="2"
+       id="rect21" />
+    <rect
+       x="44.255318"
+       y="106.91489"
+       width="150"
+       height="22"
+       rx="8"
+       fill="#606868"
+       id="rect22" />
+    <rect
+       x="44.255318"
+       y="117.91489"
+       width="150"
+       height="11"
+       fill="#606868"
+       id="rect23" />
+    <text
+       x="119.25532"
+       y="121.91489"
+       text-anchor="middle"
+       font-size="10.5px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text23">バイオマスボイラー</text>
+    <text
+       x="119.25532"
+       y="146.91489"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text24">高温高圧蒸気を生成</text>
+    <text
+       x="119.25532"
+       y="160.91489"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text25">6 MPa / 450℃（想定値）</text>
+    <text
+       x="119.25532"
+       y="178.91489"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text26">燃料：廃材チップ</text>
+    <text
+       x="119.25532"
+       y="192.91489"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text27">＋乾燥リグニン残渣</text>
+    <text
+       x="119.25532"
+       y="210.91489"
+       text-anchor="middle"
+       font-size="13px"
+       fill="#c0440a"
+       id="text28">🔥</text>
+  </g>
+  <!-- Main steam line to split -->
+  <path
+     d="m 199.62941,144.45659 h 57.07788"
+     stroke="#c0440a"
+     stroke-width="3"
+     fill="none"
+     marker-end="url(#aP1)"
+     id="path28"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="224.21767"
+     y="129.06668"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#c0440a"
+     id="text29">主蒸気</text>
+  <!-- Existing condensing turbine -->
+  <!-- steam into existing turbine -->
+  <!-- Existing condenser -->
+  <!-- elec from existing turbine -->
+  <path
+     d="m 661.56691,144.45659 h 44"
+     stroke="#c79100"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aElec)"
+     id="path40" />
+  <!-- Let-down turbine -->
+  <!-- slip steam into let-down -->
+  <!-- elec from let-down -->
+  <text
+     x="683.80023"
+     y="128.96707"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#c79100"
+     id="text48">→系統</text>
+  <!-- total electricity chip -->
+  <!-- 2A alternative note -->
+  <!-- process heat self-supply banner -->
+  <rect
+     x="723.65363"
+     y="288.47034"
+     width="503.61703"
+     height="26"
+     rx="5.3958964"
+     fill="#eafaf1"
+     stroke="#1a6030"
+     stroke-width="1.5"
+     id="rect57" />
+  <text
+     x="975.16919"
+     y="305.47034"
+     text-anchor="middle"
+     font-size="10px"
+     font-weight="700"
+     fill="#1a6030"
+     id="text58">エタノール工程の必要熱 約2,800 kW を　追加燃料ゼロ・専用ボイラー不要で 100%自給</text>
+  <!-- STEAM HEADER -->
+  <!-- let-down exhaust to header -->
+  <path
+     d="M 449.97676,181.23597 V 336.10949"
+     stroke="#c0440a"
+     stroke-width="2.99999"
+     fill="none"
+     marker-end="url(#aP1)"
+     id="path59" />
+  <path
+     d="M 564.93139,183.36358 V 336.12249"
+     stroke="#b08000"
+     stroke-width="3.00001"
+     fill="none"
+     marker-end="url(#aP2)"
+     id="path60" />
+  <!-- ================= PROCESS FLOW BAND ================= -->
+  <text
+     x="46.770172"
+     y="411.5224"
+     font-size="11px"
+     font-weight="700"
+     fill="#1f3864"
+     id="text62">■ エタノール製造工程</text>
+  <!-- feedstock wood -->
+  <g
+     id="g161"
+     transform="translate(14,8.485656)">
+    <rect
+       x="30"
+       y="410"
+       width="150"
+       height="66"
+       rx="8"
+       fill="#f3ece2"
+       stroke="#8b4513"
+       stroke-width="2"
+       id="rect62" />
+    <rect
+       x="30"
+       y="410"
+       width="150"
+       height="20"
+       rx="8"
+       fill="#8b4513"
+       id="rect63" />
+    <rect
+       x="30"
+       y="420"
+       width="150"
+       height="10"
+       fill="#8b4513"
+       id="rect64" />
+    <text
+       x="105"
+       y="424"
+       text-anchor="middle"
+       font-size="9.5px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text64">原料投入（木質系）</text>
+    <text
+       x="105"
+       y="445"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#5a3a1a"
+       id="text65">パレット廃材・間伐材</text>
+    <text
+       x="105"
+       y="459"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#5a3a1a"
+       id="text66">異物除去・粉砕</text>
+    <text
+       x="105"
+       y="471"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text67">※釘・金属異物に注意</text>
+  </g>
+  <!-- feedstock herbaceous -->
+  <!-- steam explosion -->
+  <g
+     id="g2"
+     transform="translate(0,-54)">
+    <rect
+       x="244.49327"
+       y="472.48566"
+       width="188"
+       height="86"
+       rx="8"
+       fill="#fbeee6"
+       stroke="#c0440a"
+       stroke-width="2"
+       id="rect71" />
+    <rect
+       x="244.49327"
+       y="472.48566"
+       width="188"
+       height="22"
+       rx="8"
+       fill="#c0440a"
+       id="rect72" />
+    <rect
+       x="244.49327"
+       y="483.48566"
+       width="188"
+       height="11"
+       fill="#c0440a"
+       id="rect73" />
+    <text
+       x="338.57385"
+       y="487.48566"
+       text-anchor="middle"
+       font-size="10px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text73">水蒸気爆砕装置</text>
+    <text
+       x="340.92957"
+       y="509.48566"
+       text-anchor="middle"
+       font-size="8.5px"
+       font-weight="700"
+       fill="#c0440a"
+       id="text74">P1 160–180℃ / 1.0 MPa（約800 kW）</text>
+    <text
+       x="338.28577"
+       y="524.48566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text75">高温高圧加熱 → 急速圧力開放</text>
+    <text
+       x="338.45386"
+       y="538.48566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text76">セルロース解繊・リグニン軟化</text>
+    <text
+       x="338.49524"
+       y="552.48566"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text77">（専用圧力容器＋急速開放弁）</text>
+  </g>
+  <path
+     d="m 194.29259,454.30785 h 43.92605"
+     stroke="#8b4513"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aMat)"
+     id="path77" />
+  <!-- P1 tap from header -->
+  <path
+     d="m 340,364 v 0 0 50.11713"
+     stroke="#c0440a"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aP1)"
+     id="path78"
+     sodipodi:nodetypes="cccc" />
+  <text
+     x="350"
+     y="386"
+     font-size="8px"
+     fill="#c0440a"
+     id="text78">CV·P1</text>
+  <!-- RT-CaCCO -->
+  <!-- filter press -->
+  <g
+     id="g1"
+     transform="translate(0,-54)">
+    <rect
+       x="482.98654"
+       y="472.48566"
+       width="164"
+       height="84"
+       rx="8"
+       fill="#faf3df"
+       stroke="#b08000"
+       stroke-width="2"
+       id="rect84" />
+    <rect
+       x="482.98654"
+       y="472.48566"
+       width="164"
+       height="22"
+       rx="8"
+       fill="#b08000"
+       id="rect85" />
+    <rect
+       x="482.98654"
+       y="483.48566"
+       width="164"
+       height="11"
+       fill="#b08000"
+       id="rect86" />
+    <text
+       x="567.58667"
+       y="487.48566"
+       text-anchor="middle"
+       font-size="10px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text86">フィルタープレス（独立）</text>
+    <text
+       x="567.3855"
+       y="509.48566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text87">固液分離（機械的操作）</text>
+    <text
+       x="564.72302"
+       y="524.48566"
+       text-anchor="middle"
+       font-size="8.5px"
+       font-weight="700"
+       fill="#b08000"
+       id="text88">P2補助 110–120℃</text>
+    <text
+       x="564.78528"
+       y="539.48566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#a04010"
+       id="text89">→ リグニン　／　→ セルロース液</text>
+  </g>
+  <!-- explosion -> filter -->
+  <path
+     d="m 433.08068,454.30785 h 44.00095"
+     stroke="#8b4513"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aMat)"
+     id="path89" />
+  <text
+     x="456.66281"
+     y="440.03448"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#8b4513"
+     id="text90">爆砕後</text>
+  <!-- RT-CaCCO -> filter (cellulose liquid converges) -->
+  <!-- P2 tap to filter -->
+  <path
+     d="m 563.86879,363.24776 v 49.3399"
+     stroke="#b08000"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aP2)"
+     id="path91"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="572.43604"
+     y="386"
+     font-size="8px"
+     fill="#b08000"
+     id="text92">CV·P2</text>
+  <!-- SSF -->
+  <!-- filter -> SSF -->
+  <path
+     d="m 647.76407,454.30785 h 43.98294"
+     stroke="#1a6030"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aG)"
+     id="path101" />
+  <path
+     d="m 1100.8922,454.30785 h 44.6477"
+     stroke="#1a6030"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aG-5)"
+     id="path101-7"
+     style="marker-end:url(#aG-5)" />
+  <text
+     x="668.43542"
+     y="440.04181"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102">液</text>
+  <!-- hot water loop from header(P2 condensate) to SSF -->
+  <path
+     d="m 800.80033,364 v 48.41507"
+     stroke="#2a5b9a"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aHW)"
+     id="path102"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="900.11407"
+     y="385.95117"
+     text-anchor="end"
+     font-size="8px"
+     fill="#2a5b9a"
+     id="text103">温水ループ（P2凝縮水）</text>
+  <!-- distillation -->
+  <g
+     id="g156"
+     transform="translate(141.70499,-188.74841)">
+    <rect
+       x="812.46808"
+       y="607.23407"
+       width="146"
+       height="92"
+       rx="8"
+       fill="#faf3df"
+       stroke="#b08000"
+       stroke-width="2"
+       id="rect103" />
+    <rect
+       x="812.46808"
+       y="607.23407"
+       width="146"
+       height="22"
+       rx="8"
+       fill="#b08000"
+       id="rect104" />
+    <rect
+       x="812.46808"
+       y="618.23407"
+       width="146"
+       height="11"
+       fill="#b08000"
+       id="rect105" />
+    <text
+       x="885.46808"
+       y="622.23407"
+       text-anchor="middle"
+       font-size="10px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text105">蒸留塔</text>
+    <text
+       x="885.46808"
+       y="645.23407"
+       text-anchor="middle"
+       font-size="8.5px"
+       font-weight="700"
+       fill="#b08000"
+       id="text106">P2 110–120℃（約2,000 kW）</text>
+    <text
+       x="885.46808"
+       y="660.23407"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text107">エタノール蒸留・精製</text>
+    <text
+       x="885.46808"
+       y="675.23407"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text108">沸点78℃ / 追加燃料不要</text>
+    <text
+       x="885.46808"
+       y="690.23407"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text109">無水化は脱水工程を別途</text>
+  </g>
+  <!-- SSF -> distill -->
+  <path
+     d="m 903.65473,454.30785 h 45.34745"
+     stroke="#1a6030"
+     stroke-width="2.50001"
+     fill="none"
+     marker-end="url(#aG)"
+     id="path109" />
+  <g
+     id="g170"
+     transform="translate(8.1692793,8)">
+    <rect
+       x="689.41052"
+       y="410.58566"
+       width="206"
+       height="138"
+       rx="8"
+       fill="url(#ssfG)"
+       stroke="#1a6030"
+       stroke-width="2.2"
+       id="rect92"
+       style="fill:url(#ssfG)" />
+    <rect
+       x="689.41052"
+       y="410.58566"
+       width="206"
+       height="22"
+       rx="8"
+       fill="#1a6030"
+       id="rect93" />
+    <rect
+       x="689.41052"
+       y="421.58566"
+       width="206"
+       height="11"
+       fill="#1a6030"
+       id="rect94" />
+    <text
+       x="792.41052"
+       y="425.58566"
+       text-anchor="middle"
+       font-size="10px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text94">ジャケット付き攪拌槽（SSF）</text>
+    <text
+       x="792.41052"
+       y="448.58566"
+       text-anchor="middle"
+       font-size="8.5px"
+       font-weight="700"
+       fill="#2a5b9a"
+       id="text95">糖化 50–55℃（温水ループ）</text>
+    <text
+       x="792.41052"
+       y="462.58566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text96">セルラーゼ系酵素（市販品）</text>
+    <text
+       x="792.41052"
+       y="478.58566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#2a5b9a"
+       id="text97">↓ 冷却水で段階的に降温</text>
+    <text
+       x="792.41052"
+       y="494.58566"
+       text-anchor="middle"
+       font-size="8.5px"
+       font-weight="700"
+       fill="#2a5b9a"
+       id="text98">発酵 30–40℃（冷却主体・チラー併用）</text>
+    <text
+       x="792.41052"
+       y="508.58566"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text99">サッカロマイセス酵母（市販品）</text>
+    <text
+       x="792.41052"
+       y="524.58563"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text100">同時糖化発酵 / 処理 72–96時間</text>
+    <text
+       x="792.41052"
+       y="540.58563"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#b22222"
+       id="text101">酵素コストが商用化最大のボトルネック</text>
+  </g>
+  <text
+     x="927.80933"
+     y="439.7049"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text110">醪</text>
+  <!-- P2 tap to distillation -->
+  <path
+     d="m 1027.1972,364 v 48.59875"
+     stroke="#b08000"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aP2)"
+     id="path110"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="1038.7375"
+     y="386"
+     font-size="8px"
+     fill="#b08000"
+     id="text111">CV·P2</text>
+  <!-- ethanol product -->
+  <g
+     id="g157"
+     transform="translate(59.134476,-266.40796)">
+    <rect
+       x="1091.5319"
+       y="684.89362"
+       width="206"
+       height="92"
+       rx="8"
+       fill="#eafaf1"
+       stroke="#1a6030"
+       stroke-width="2"
+       id="rect111" />
+    <rect
+       x="1091.5319"
+       y="684.89362"
+       width="206"
+       height="22"
+       rx="8"
+       fill="#1a6030"
+       id="rect112" />
+    <rect
+       x="1091.5319"
+       y="695.89362"
+       width="206"
+       height="11"
+       fill="#1a6030"
+       id="rect113" />
+    <text
+       x="1194.5319"
+       y="699.89362"
+       text-anchor="middle"
+       font-size="10px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text113">バイオエタノール（製品）</text>
+    <text
+       x="1194.5319"
+       y="722.89362"
+       text-anchor="middle"
+       font-size="9px"
+       font-weight="700"
+       fill="#1a6030"
+       id="text114">年間 約1,830 kL</text>
+    <text
+       x="1194.5319"
+       y="737.89362"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text115">収率 280 L/t-dry（日鉄実証値）</text>
+    <text
+       x="1194.5319"
+       y="752.89362"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text116">→ Revolefin™（バイオプラ原料）</text>
+    <text
+       x="1194.5319"
+       y="767.89362"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text117">炭素を製品に固定</text>
+  </g>
+  <!-- dryer -->
+  <!-- filter lignin -> dryer -->
+  <path
+     d="M 174.34574,418.5213 V 212.94424"
+     stroke="#8b4513"
+     stroke-width="2.50001"
+     fill="none"
+     marker-end="url(#aMat-9)"
+     id="path123-8"
+     style="marker-end:url(#aMat-9)" />
+  <!-- boiler flue gas -> dryer -->
+  <path
+     d="M 48.510638,188.3617 H 30.851064 l 0,571.47284 427.330216,0"
+     stroke="#888888"
+     stroke-width="2.5"
+     fill="none"
+     stroke-dasharray="6, 3"
+     marker-end="url(#aGas)"
+     id="path124"
+     sodipodi:nodetypes="cccc" />
+  <!-- dried lignin back to boiler -->
+  <path
+     d="m 462.22685,732.71088 -254.24813,0 0,-415.26407 H 146.27659 V 213.19149"
+     stroke="#8b4513"
+     stroke-width="2.5"
+     fill="none"
+     stroke-dasharray="2, 2"
+     marker-end="url(#aMat)"
+     id="path125"
+     sodipodi:nodetypes="ccccc"
+     style="stroke-dasharray:none" />
+  <text
+     x="214.57446"
+     y="387.06378"
+     font-size="8px"
+     fill="#a04010"
+     id="text126">乾燥リグニン</text>
+  <text
+     x="214.41431"
+     y="399.01532"
+     font-size="8px"
+     fill="#a04010"
+     id="text126-4">→ ボイラー燃料</text>
+  <!-- ================= CARBONATION LOOP BAND ================= -->
+  <!-- carbonation tank -->
+  <!-- fermentation CO2 -> tank -->
+  <!-- residue Ca(OH)2 -> tank -->
+  <!-- CaCO3 output -->
+  <!-- surplus CO2 output -->
+  <!-- ================= FOOTER ================= -->
+  <line
+     x1="40"
+     y1="828"
+     x2="1360"
+     y2="828"
+     stroke="#e0e0e0"
+     stroke-width="1"
+     id="line146" />
+  <text
+     x="700"
+     y="850"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#1f3864"
+     id="text147">■ 木質系：水蒸気爆砕 → 固液分離 → SSF　／　■ 草本系（RT-CaCCO法）：Ca(OH)₂アルカリ前処理 → SSF　（両ルートとも下流設備を共有）</text>
+  <text
+     x="700"
+     y="868"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#555555"
+     id="text148">2トラック：【2A 新設版】抽気復水タービン1台（本図の主役・草本系30%基準）　／　【2B 改造版】既存復水機＋let-downタービン（別図）　※新設は草本系を1:1（約20,147 t）まで拡大可＝CaCO₃最大約2,041 t・下流/P2増設を伴う（参考）</text>
+  <text
+     x="700"
+     y="886"
+     text-anchor="middle"
+     font-size="9.5px"
+     fill="#555555"
+     id="text149">エタノール工程の必要熱 約2,800 kW を追加燃料ゼロで100%自給。使い切れない熱は復水器へ（発電を最大化）。</text>
+  <text
+     x="700"
+     y="908"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#999999"
+     id="text150">前提：主蒸気6 MPa/450℃・ボイラー効率85%・タービン段効率0.78・復水器0.008 MPa（実装メーカー精査前の参照値）　|　CC BY-SA 4.0</text>
+  <g
+     id="g144"
+     transform="translate(-38.069149,-11.771276)">
+    <rect
+       x="300"
+       y="108"
+       width="400"
+       height="86"
+       rx="8"
+       fill="#eaeef7"
+       stroke="#2f5496"
+       stroke-width="2.5"
+       id="rect29" />
+    <rect
+       x="300"
+       y="108"
+       width="400"
+       height="22"
+       rx="8"
+       fill="#2f5496"
+       id="rect30" />
+    <rect
+       x="300"
+       y="119"
+       width="400"
+       height="11"
+       fill="#2f5496"
+       id="rect31" />
+    <text
+       x="500"
+       y="123"
+       text-anchor="middle"
+       font-size="11px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text31">新設 抽気復水タービン（1台）</text>
+    <text
+       x="500"
+       y="145"
+       text-anchor="middle"
+       font-size="9px"
+       fill="#303030"
+       id="text32">主蒸気 6 MPa/450℃ → P1（1.0 MPa）・P2（0.2 MPa）を必要量だけ抽気</text>
+    <text
+       x="500"
+       y="160"
+       text-anchor="middle"
+       font-size="9px"
+       fill="#303030"
+       id="text33">→ 残りは復水器（0.008 MPa/41℃）まで膨張させ発電を最大化</text>
+    <text
+       x="500"
+       y="178"
+       text-anchor="middle"
+       font-size="11px"
+       font-weight="700"
+       fill="#1a6030"
+       id="text34">発電 約3,920 kW</text>
+    <text
+       x="500"
+       y="190"
+       text-anchor="middle"
+       font-size="7.5px"
+       fill="#666666"
+       id="text35">（純復水運転 約4,440 kW − 工程抽気分 約520 kW）</text>
+  </g>
+  <g
+     id="g145"
+     transform="translate(-71.047872,14.824469)">
+    <rect
+       x="300"
+       y="214"
+       width="200"
+       height="74"
+       rx="8"
+       fill="#e9f0f5"
+       stroke="#2a5b9a"
+       stroke-width="2"
+       id="rect35" />
+    <rect
+       x="300"
+       y="214"
+       width="200"
+       height="20"
+       rx="8"
+       fill="#2a5b9a"
+       id="rect36" />
+    <rect
+       x="300"
+       y="224"
+       width="200"
+       height="10"
+       fill="#2a5b9a"
+       id="rect37" />
+    <text
+       x="400"
+       y="228"
+       text-anchor="middle"
+       font-size="9.5px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text37">復水器 → 冷却塔</text>
+    <text
+       x="400"
+       y="250"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text38">タービン排気を 0.008 MPa(41℃) へ膨張</text>
+    <text
+       x="400"
+       y="264"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text39">放熱 約8,000 kW（45%）→ 冷却塔</text>
+    <text
+       x="400"
+       y="279"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text40">この膨張が発電を最大化（背圧に縛らない）</text>
+  </g>
+  <g
+     id="g146"
+     transform="translate(-40.728723,3.675533)">
+    <rect
+       x="752"
+       y="120"
+       width="118"
+       height="40"
+       rx="6"
+       fill="#fff7da"
+       stroke="#c79100"
+       stroke-width="1.5"
+       id="rect42" />
+    <text
+       x="811"
+       y="136"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#7a5a00"
+       id="text43">発電端出力（2A）</text>
+    <text
+       x="811"
+       y="152"
+       text-anchor="middle"
+       font-size="11px"
+       font-weight="700"
+       fill="#a87800"
+       id="text44">約 3,920 kW</text>
+  </g>
+  <g
+     id="g147"
+     transform="translate(-33.114884,-10.817021)">
+    <rect
+       x="884"
+       y="108"
+       width="252"
+       height="118"
+       rx="8"
+       fill="#f4f9f4"
+       stroke="#1a6030"
+       stroke-width="1.6"
+       stroke-dasharray="5, 3"
+       id="rect44" />
+    <text
+       x="1010"
+       y="126"
+       text-anchor="middle"
+       font-size="10px"
+       font-weight="700"
+       fill="#1a6030"
+       id="text45">【改造版 2B】既存復水機＋let-down</text>
+    <text
+       x="1010"
+       y="144"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text46">既存の復水タービンは無改造のまま、</text>
+    <text
+       x="1010"
+       y="159"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text47">後付けlet-downタービンで主蒸気を</text>
+    <text
+       x="1010"
+       y="173"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text48-2">工程圧へ降圧発電し、排気を工程熱に</text>
+    <text
+       x="1010"
+       y="191"
+       text-anchor="middle"
+       font-size="9px"
+       font-weight="700"
+       fill="#a87800"
+       id="text49">発電 約3,030 kW（失電 約520 kW）</text>
+    <text
+       x="1010"
+       y="206"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text50">既存設備に手を加えない（FIT終了後向け）</text>
+    <text
+       x="1010"
+       y="220"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text51">→ 詳細は改造版 2B 概念図</text>
+  </g>
+  <text
+     x="573.13367"
+     y="291.7666"
+     font-size="8px"
+     fill="#b08000"
+     id="text55">P2 抽気</text>
+  <text
+     x="460.09106"
+     y="291.7666"
+     font-size="8px"
+     fill="#c0440a"
+     id="text54">P1 抽気</text>
+  <path
+     d="m 330.49469,182.70214 v 41.41452"
+     stroke="#2a5b9a"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aHW-3)"
+     id="path40-1"
+     style="marker-end:url(#aHW-3)" />
+  <text
+     x="349.26062"
+     y="210"
+     font-size="7.5px"
+     fill="#2a5b9a"
+     id="text41">排気</text>
+  <g
+     id="g158"
+     transform="translate(13.98612,17.670986)">
+    <rect
+       x="30"
+       y="528"
+       width="150"
+       height="62"
+       rx="8"
+       fill="#efe9df"
+       stroke="#7a5230"
+       stroke-width="2"
+       id="rect67" />
+    <rect
+       x="30"
+       y="528"
+       width="150"
+       height="20"
+       rx="8"
+       fill="#7a5230"
+       id="rect68" />
+    <rect
+       x="30"
+       y="538"
+       width="150"
+       height="10"
+       fill="#7a5230"
+       id="rect69" />
+    <text
+       x="105"
+       y="542"
+       text-anchor="middle"
+       font-size="9.5px"
+       font-weight="700"
+       fill="#ffffff"
+       id="text69">原料投入（草本系）30%</text>
+    <text
+       x="105"
+       y="563"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#5a3a1a"
+       id="text70">稲藁・葦・麦わら</text>
+    <text
+       x="105"
+       y="578"
+       text-anchor="middle"
+       font-size="8px"
+       fill="#888888"
+       id="text71">CaPPAペレット受入れ</text>
+  </g>
+  <path
+     d="m 193.81591,568.4703 h 43.93981"
+     stroke="#8b4513"
+     stroke-width="2.5"
+     fill="none"
+     marker-end="url(#aMat-5)"
+     id="path84"
+     style="marker-end:url(#aMat-5)" />
+  <rect
+     x="757.35266"
+     y="651.46503"
+     width="164"
+     height="69.053024"
+     rx="8"
+     fill="#faf3df"
+     stroke="#b08000"
+     stroke-width="2"
+     id="rect84-6" />
+  <rect
+     x="757.35266"
+     y="651.46503"
+     width="164"
+     height="22"
+     rx="8"
+     fill="#b08000"
+     id="rect85-1" />
+  <rect
+     x="757.35266"
+     y="662.46503"
+     width="164"
+     height="11"
+     fill="#b08000"
+     id="rect86-3" />
+  <text
+     x="841.95282"
+     y="666.46503"
+     text-anchor="middle"
+     font-size="10px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text86-8">フィルタープレス（独立）</text>
+  <text
+     x="841.75165"
+     y="688.46503"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#303030"
+     id="text87-9">固液分離（機械的操作）</text>
+  <text
+     x="839.15143"
+     y="706.46503"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#a04010"
+     id="text89-4">→ エタノール含有液　／　→残渣CaCO₃</text>
+  <text
+     x="443.81592"
+     y="556.59796"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text91">セルロース液</text>
+  <path
+     d="M 563.63044,504 V 687.18851"
+     stroke="#b08000"
+     stroke-width="2.49999"
+     fill="none"
+     marker-end="url(#aP2-6)"
+     id="path91-4"
+     sodipodi:nodetypes="cc"
+     style="stroke:#8b4513;marker-end:url(#aMat-5)" />
+  <text
+     x="763.19781"
+     y="626.86279"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102-1"
+     style="fill:#8b4513">発酵スラリー液</text>
+  <text
+     x="636.77637"
+     y="534.52136"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102-3"
+     style="fill:#8b4513">スラリー液</text>
+  <text
+     x="1059.65"
+     y="569.59052"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102-3-9"
+     style="fill:#8b4513">エタノール含有液</text>
+  <text
+     x="978.54584"
+     y="551.39539"
+     text-anchor="end"
+     font-size="8px"
+     fill="#2a5b9a"
+     id="text103-2">冷却水（チラー）</text>
+  <path
+     d="M 974.58787,529.79478 H 909.61801"
+     stroke="#1a6030"
+     stroke-width="2.50001"
+     fill="none"
+     marker-end="url(#aG-51)"
+     id="path109-1"
+     style="stroke:#2a5b9a;marker-end:url(#aHW-9)" />
+  <rect
+     x="461.94528"
+     y="691.98981"
+     width="206"
+     height="94.946976"
+     rx="8"
+     fill="#eef0f0"
+     stroke="#606868"
+     stroke-width="2"
+     id="rect117" />
+  <text
+     x="564.97827"
+     y="776.323"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102-3-4-3"
+     style="fill:#303030">残渣CaCO₃ 乾燥工程</text>
+  <rect
+     x="461.94528"
+     y="691.98975"
+     width="206"
+     height="20"
+     rx="8"
+     fill="#606868"
+     id="rect118" />
+  <rect
+     x="461.94528"
+     y="701.98975"
+     width="206"
+     height="10"
+     fill="#606868"
+     id="rect119" />
+  <text
+     x="567.2345"
+     y="705.98975"
+     text-anchor="middle"
+     font-size="9.5px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text119">ロータリードライヤー（独立系統）</text>
+  <text
+     x="567.40649"
+     y="726.98975"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#303030"
+     id="text120">ボイラー排ガス熱風（120–150℃）</text>
+  <text
+     x="564.04675"
+     y="740.98975"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#303030"
+     id="text121">リグニン 含水率 70% → 15%以下</text>
+  <text
+     x="564.76892"
+     y="755.98975"
+     text-anchor="middle"
+     font-size="8.5px"
+     font-weight="700"
+     fill="#c04010"
+     id="text122">→ ボイラー燃料として還流</text>
+  <line
+     x1="484.44528"
+     y1="761.13019"
+     x2="645.44531"
+     y2="761.13019"
+     stroke="#2a5090"
+     stroke-width="0.8"
+     stroke-opacity="0.4"
+     stroke-dasharray="3, 2"
+     id="line58"
+     style="stroke:#606868" />
+  <text
+     x="569.9043"
+     y="646.69745"
+     font-size="8px"
+     fill="#a04010"
+     id="text124">リグニン</text>
+  <text
+     x="131.34375"
+     y="751.94281"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#777777"
+     id="text125">ボイラー排ガス（独立系統・リグニン乾燥専用）</text>
+  <text
+     x="243.29259"
+     y="540.40802"
+     font-size="11px"
+     font-weight="700"
+     fill="#1f3864"
+     id="text128">■ 炭酸化ループ（CaCO₃化・製品／循環キャリア）</text>
+  <rect
+     x="243.48453"
+     y="547.56915"
+     width="270"
+     height="132"
+     rx="8"
+     fill="#eef2fb"
+     stroke="#2f5496"
+     stroke-width="2.4"
+     id="rect128" />
+  <rect
+     x="243.48453"
+     y="547.56915"
+     width="270"
+     height="22"
+     rx="8"
+     fill="#2f5496"
+     id="rect129" />
+  <rect
+     x="243.48453"
+     y="558.56915"
+     width="270"
+     height="11"
+     fill="#2f5496"
+     id="rect130" />
+  <text
+     x="378.48453"
+     y="562.56915"
+     text-anchor="middle"
+     font-size="10.5px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text130">炭酸化タンク — Carbonation Tank</text>
+  <text
+     x="378.48453"
+     y="603.95331"
+     text-anchor="middle"
+     font-size="9.5px"
+     font-weight="700"
+     fill="#1f3864"
+     id="text131">Ca(OH)₂ + CO₂ → CaCO₃ + H₂O</text>
+  <text
+     x="378.48453"
+     y="585.59802"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#303030"
+     id="text132">CaPPAペレット再スラリー化</text>
+  <text
+     x="378.48453"
+     y="620.56915"
+     text-anchor="middle"
+     font-size="8.5px"
+     fill="#303030"
+     id="text133">Ca(OH)₂スラリー式・CO₂吹き込み</text>
+  <text
+     x="378.48453"
+     y="640.56915"
+     text-anchor="middle"
+     font-size="9.5px"
+     font-weight="700"
+     fill="#2a5090"
+     id="text134">CaCO₃化（採掘石灰石の代替＝製品）</text>
+  <text
+     x="378.48453"
+     y="659.56915"
+     text-anchor="middle"
+     font-size="10px"
+     font-weight="700"
+     fill="#b22222"
+     id="text135">CO₂無機固定（粗）：約270 t-CO₂/年</text>
+  <text
+     x="378.48453"
+     y="673.56915"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#888888"
+     id="text136">（草本系30%・炭素除去に計上せず）</text>
+  <text
+     x="689.77905"
+     y="583.35315"
+     font-size="8.5px"
+     fill="#2a8090"
+     id="text137">発酵CO₂</text>
+  <text
+     x="689.77905"
+     y="596.35315"
+     font-size="8.5px"
+     fill="#2a8090"
+     id="text138">純CO₂ 95–99%</text>
+  <g
+     id="g165"
+     transform="translate(824.44255,-127.48204)">
+    <rect
+       x="300"
+       y="820"
+       width="234"
+       height="64"
+       rx="8"
+       fill="#f4f8f0"
+       stroke="#1a6030"
+       stroke-width="1.8"
+       id="rect140" />
+    <text
+       x="417"
+       y="840"
+       text-anchor="middle"
+       font-size="9.5px"
+       font-weight="700"
+       fill="#1a6030"
+       id="text141">CaCO₃ 約613 t/年</text>
+    <text
+       x="417"
+       y="856"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text142">→ 農地還元（土壌pH改良材）</text>
+    <text
+       x="417"
+       y="871"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#303030"
+       id="text143">採掘石灰石の代替＝製品</text>
+  </g>
+  <g
+     id="g169"
+     transform="translate(65.43111,-88.528694)">
+    <rect
+       x="1057.344"
+       y="690.47107"
+       width="236.81174"
+       height="64"
+       rx="6.3149796"
+       fill="#f5f5f5"
+       stroke="#888888"
+       stroke-width="1.6"
+       id="rect143" />
+    <text
+       x="1175.8844"
+       y="710.47107"
+       text-anchor="middle"
+       font-size="9.5px"
+       font-weight="700"
+       fill="#555555"
+       id="text144">余剰CO₂ 約1,110t/年</text>
+    <text
+       x="1175.9657"
+       y="726.47107"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#444444"
+       id="text145">→ ドライアイス製造・施設園芸CO₂施用</text>
+    <text
+       x="1178.2111"
+       y="741.47107"
+       text-anchor="middle"
+       font-size="8.5px"
+       fill="#b22222"
+       id="text146">※炭素固定効果なし（固定量に算入せず）</text>
+  </g>
+  <path
+     d="M 667.10569,733.15093 H 1119.0091"
+     stroke="#888888"
+     stroke-width="2.49999"
+     fill="none"
+     marker-end="url(#aGas)"
+     id="path146"
+     style="stroke:#8b4513;marker-end:url(#aMat-5)" />
+  <path
+     style="fill:none;stroke:#8b4513;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#aMat-5)"
+     d="m 514.54675,577.67441 h 91.36829 v -57.43816 h 85.56044"
+     id="path10"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#2a8090;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#aCO2-2)"
+     d="m 755.5246,558.53412 v 46.00415 H 518.52529"
+     id="path12"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#2a8090;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#aCO2-6)"
+     d="m 843.25146,558.11158 v 76.83863 h 275.22194"
+     id="path12-9"
+     sodipodi:nodetypes="ccc" />
+  <path
+     d="m 799.1659,557.38694 v 90.00379"
+     stroke="#2a5b9a"
+     stroke-width="2.50001"
+     fill="none"
+     marker-end="url(#aHW-4)"
+     id="path102-6"
+     sodipodi:nodetypes="cc"
+     style="stroke:#8b4513;marker-end:url(#aMat-5)" />
+  <path
+     d="M 757.04699,709.14843 H 671.89788"
+     stroke="#1a6030"
+     stroke-width="2.50002"
+     fill="none"
+     marker-end="url(#aG-51)"
+     id="path109-1-8"
+     style="stroke:#8b4513;marker-end:url(#aMat-5)" />
+  <path
+     style="fill:none;stroke:#8b4513;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#aMat-5)"
+     d="M 923.24912,689.15602 H 1024.4286 V 515.82862"
+     id="path11"
+     sodipodi:nodetypes="ccc" />
+  <text
+     x="852.8147"
+     y="613.37006"
+     font-size="8.5px"
+     fill="#2a8090"
+     id="text137-2">発酵CO₂</text>
+  <text
+     x="852.8147"
+     y="626.37006"
+     font-size="8.5px"
+     fill="#2a8090"
+     id="text138-9">純CO₂ 95–99%</text>
+  <text
+     x="720.14752"
+     y="697.32477"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102-3-4"
+     style="fill:#8b4513">残渣CaCO₃</text>
+  <text
+     x="965.45477"
+     y="727.20898"
+     text-anchor="middle"
+     font-size="7.5px"
+     fill="#1a6030"
+     id="text102-3-4-7"
+     style="fill:#8b4513">残渣CaCO₃</text>
+  <rect
+     x="245.75"
+     y="340.48456"
+     width="223.20988"
+     height="22"
+     rx="4"
+     fill="#f0e6d6"
+     stroke="#a87800"
+     stroke-width="1.5"
+     id="rect58"
+     style="fill:#fbeee6;stroke:#c0440a" />
+  <rect
+     x="484.58646"
+     y="340.02466"
+     width="621.35803"
+     height="22"
+     rx="4"
+     fill="#f0e6d6"
+     stroke="#a87800"
+     stroke-width="1.5"
+     id="rect58-9" />
+  <text
+     x="357.30624"
+     y="355.20013"
+     text-anchor="middle"
+     font-size="9.5px"
+     font-weight="700"
+     fill="#8a6a00"
+     id="text59"
+     style="fill:#c0440a">蒸気ヘッダー P1：1.0MPa・160℃～180℃</text>
+  <text
+     x="795.21674"
+     y="354.64978"
+     text-anchor="middle"
+     font-size="9.5px"
+     font-weight="700"
+     fill="#8a6a00"
+     id="text59-8"
+     style="fill:#b08000">蒸気ヘッダー P2：0.2MPa・110℃～120℃/温水：50～55℃</text>
+</svg>

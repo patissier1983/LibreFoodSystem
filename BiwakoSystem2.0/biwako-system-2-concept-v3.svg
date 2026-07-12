@@ -1,0 +1,3396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1600 1165"
+   width="1600"
+   height="1165"
+   version="1.1"
+   id="svg197"
+   sodipodi:docname="biwako-system-2-concept-v3.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="biwako-system-2-concept-v2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview197"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.02"
+     inkscape:cx="250.49669"
+     inkscape:cy="777.64901"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="1180"
+     inkscape:window-y="2151"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg197" />
+  <defs
+     id="defs12">
+    <rect
+       x="587.93103"
+       y="455.60345"
+       width="99.137932"
+       height="80.172417"
+       id="rect19" />
+    <rect
+       x="1215.5166"
+       y="931.96674"
+       width="177.4838"
+       height="93.338097"
+       id="rect198" />
+    <marker
+       id="a-brn"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1" />
+    </marker>
+    <marker
+       id="a-org"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#c55a11"
+         id="path2" />
+    </marker>
+    <marker
+       id="a-blu"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3" />
+    </marker>
+    <marker
+       id="a-tel"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1e7080"
+         id="path4" />
+    </marker>
+    <marker
+       id="a-grn"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1a6030"
+         id="path5" />
+    </marker>
+    <marker
+       id="a-gld"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#9a6e00"
+         id="path6" />
+    </marker>
+    <marker
+       id="a-red"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#c0440a"
+         id="path7" />
+    </marker>
+    <marker
+       id="a-gry"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#888888"
+         id="path8" />
+    </marker>
+    <marker
+       id="a-dkg"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#3a3a3a"
+         id="path9" />
+    </marker>
+    <marker
+       id="a-pur"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#6a4a9a"
+         id="path10" />
+    </marker>
+    <marker
+       id="a-tea"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#3a8a7a"
+         id="path11" />
+    </marker>
+    <marker
+       id="a-p3g"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a7a4a"
+         opacity="0.65"
+         id="path12" />
+    </marker>
+    <marker
+       id="a-brn-0"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-9" />
+    </marker>
+    <marker
+       id="a-brn-8"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2" />
+    </marker>
+    <marker
+       id="a-brn-8-5"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-1" />
+    </marker>
+    <marker
+       id="a-brn-8-1"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-5" />
+    </marker>
+    <marker
+       id="a-blu-4"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-2" />
+    </marker>
+    <marker
+       id="a-blu-2"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-1" />
+    </marker>
+    <marker
+       id="a-tel-5"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1e7080"
+         id="path4-7" />
+    </marker>
+    <marker
+       id="a-tel-5-8"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1e7080"
+         id="path4-7-9" />
+    </marker>
+    <marker
+       id="a-tea-9"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#3a8a7a"
+         id="path11-5" />
+    </marker>
+    <marker
+       id="a-blu-1"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-23" />
+    </marker>
+    <marker
+       id="a-blu-1-1"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-23-1" />
+    </marker>
+    <marker
+       id="a-tel-5-8-7"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1e7080"
+         id="path4-7-9-4" />
+    </marker>
+    <marker
+       id="a-blu-2-7"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-1-9" />
+    </marker>
+    <marker
+       id="a-blu-2-7-9"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-1-9-8" />
+    </marker>
+    <marker
+       id="a-blu-1-8"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2a5090"
+         id="path3-23-6" />
+    </marker>
+    <marker
+       id="a-tel-5-1"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1e7080"
+         id="path4-7-3" />
+    </marker>
+    <marker
+       id="a-grn-1"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#1a6030"
+         id="path5-8" />
+    </marker>
+    <marker
+       id="a-brn-8-6"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-3" />
+    </marker>
+    <marker
+       id="a-brn-8-8"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-2" />
+    </marker>
+    <marker
+       id="a-brn-8-0"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-9" />
+    </marker>
+    <marker
+       id="a-brn-8-82"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-4" />
+    </marker>
+    <marker
+       id="a-brn-8-82-1"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-4-7" />
+    </marker>
+    <marker
+       id="a-brn-8-8-5"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-2-2" />
+    </marker>
+    <marker
+       id="a-brn-8-14"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-23" />
+    </marker>
+    <marker
+       id="a-brn-8-16"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-8" />
+    </marker>
+    <marker
+       id="a-brn-8-61"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-89" />
+    </marker>
+    <marker
+       id="a-brn-8-54"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-31" />
+    </marker>
+    <marker
+       id="a-brn-8-13"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#7a3b10"
+         id="path1-2-87" />
+    </marker>
+    <marker
+       id="a-gld-0"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto"
+       viewBox="0 0 10 7"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#9a6e00"
+         id="path6-9" />
+    </marker>
+  </defs>
+  <!-- Background -->
+  <rect
+     width="1600"
+     height="1165"
+     fill="#f6f4ee"
+     id="rect12"
+     x="0"
+     y="0"
+     style="fill:#ffffff;stroke-width:0.999996"
+     sodipodi:insensitive="true" />
+  <rect
+     x="237.11111"
+     y="92"
+     width="695.96417"
+     height="173.98137"
+     rx="7.1055298"
+     fill="#7a3b10"
+     fill-opacity="0.12"
+     stroke="#7a3b10"
+     stroke-width="1.8"
+     id="rect36" />
+  <rect
+     x="373.65549"
+     y="276.96857"
+     width="752.75885"
+     height="350.73361"
+     rx="10.000004"
+     fill="#1e7080"
+     fill-opacity="0.12"
+     stroke="#1e7080"
+     stroke-width="2"
+     id="rect69-2"
+     style="opacity:1;fill:#1e7080;stroke-dasharray:10.6667, 5.33333;stroke-dashoffset:0" />
+  <!-- TITLE -->
+  <text
+     x="800.36749"
+     y="38"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="21px"
+     font-weight="bold"
+     fill="#1a2535"
+     id="text12"
+     style="fill:#1f3864;fill-opacity:1">琵琶湖システム 2.0　全体概念図</text>
+  <text
+     x="799.89551"
+     y="60"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     fill="#666666"
+     id="text13"
+     style="fill:#555555;fill-opacity:1">稲藁・もみ殻・葦・間伐材・畜産廃棄物を起点とする農村スケール炭素循環システム　｜　CC BY-SA 4.0　｜　概念図 v3.0　｜　librefoodsystem.org</text>
+  <!-- Section labels -->
+  <text
+     x="237.11111"
+     y="86"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     font-weight="bold"
+     fill="#7a3b10"
+     id="text14">● もみ殻ルート（フェーズ1メイン）・CaPPAペレット製造（フェーズ1サブ～2）</text>
+  <text
+     x="409.65079"
+     y="290"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     font-weight="bold"
+     fill="#c55a11"
+     id="text15">● 稲藁・葦・廃材ルート（フェーズ1サブ〜2）</text>
+  <text
+     x="602.51978"
+     y="551.65527"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     font-weight="bold"
+     fill="#1e7080"
+     id="text16">● 炭酸化ループ（条件付きBECCS）</text>
+  <text
+     x="322.77029"
+     y="641.92865"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     font-weight="bold"
+     fill="#3a8a7a"
+     id="text17">● 畜産循環（フェーズ1〜2）</text>
+  <!-- ===== INPUT: 水田・稲作 ===== -->
+  <rect
+     x="27.42857"
+     y="290"
+     width="148"
+     height="238"
+     rx="12"
+     fill="#1a6030"
+     fill-opacity="0.1"
+     stroke="#1a6030"
+     stroke-width="2"
+     id="rect17" />
+  <rect
+     x="214.1869"
+     y="345.42227"
+     width="148"
+     height="34.718941"
+     rx="12"
+     fill="#1a6030"
+     fill-opacity="0.1"
+     stroke="#1a6030"
+     stroke-width="2"
+     id="rect17-9" />
+  <text
+     x="101.48457"
+     y="351.9014"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1a6030"
+     id="text18">水田・稲作</text>
+  <text
+     x="101.50558"
+     y="325.13956"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1a6030"
+     id="text18-9">琵琶湖システム</text>
+  <text
+     x="288.24292"
+     y="367.21307"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1a6030"
+     id="text18-8">木質バイオマス</text>
+  <rect
+     x="187.1259"
+     y="389.67349"
+     width="148"
+     height="34.718941"
+     rx="12"
+     fill="#1a6030"
+     fill-opacity="0.1"
+     stroke="#1a6030"
+     stroke-width="2"
+     id="rect17-9-2" />
+  <text
+     x="260.90958"
+     y="412.70514"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1a6030"
+     id="text18-8-4">草・葦</text>
+  <rect
+     x="289.60498"
+     y="207.32178"
+     width="183.77235"
+     height="32.279915"
+     rx="8"
+     fill="#1a6030"
+     fill-opacity="0.1"
+     stroke="#1a6030"
+     stroke-width="2"
+     id="rect17-9-2-9" />
+  <text
+     x="382.0878"
+     y="228.72742"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1a6030"
+     id="text18-8-4-4">CaPPAペレット製造</text>
+  <line
+     x1="50.428574"
+     y1="427"
+     x2="50.428574"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="line19" />
+  <ellipse
+     cx="50.428574"
+     cy="419"
+     rx="5"
+     ry="9"
+     fill="#1a6030"
+     fill-opacity="0.55"
+     id="ellipse19" />
+  <line
+     x1="69.428574"
+     y1="419"
+     x2="69.428574"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="line20" />
+  <ellipse
+     cx="69.428574"
+     cy="411"
+     rx="5"
+     ry="9"
+     fill="#1a6030"
+     fill-opacity="0.55"
+     id="ellipse20" />
+  <line
+     x1="88.428574"
+     y1="415"
+     x2="88.428574"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="line21" />
+  <ellipse
+     cx="88.428574"
+     cy="407"
+     rx="5"
+     ry="9"
+     fill="#1a6030"
+     fill-opacity="0.55"
+     id="ellipse21" />
+  <line
+     x1="107.42857"
+     y1="419"
+     x2="107.42857"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="line22" />
+  <ellipse
+     cx="107.42857"
+     cy="411"
+     rx="5"
+     ry="9"
+     fill="#1a6030"
+     fill-opacity="0.55"
+     id="ellipse22" />
+  <line
+     x1="126.42857"
+     y1="425"
+     x2="126.42857"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="line23" />
+  <ellipse
+     cx="126.42857"
+     cy="417"
+     rx="5"
+     ry="9"
+     fill="#1a6030"
+     fill-opacity="0.55"
+     id="ellipse23" />
+  <line
+     x1="145.42857"
+     y1="429"
+     x2="145.42857"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="line24" />
+  <ellipse
+     cx="145.42857"
+     cy="421"
+     rx="5"
+     ry="9"
+     fill="#1a6030"
+     fill-opacity="0.55"
+     id="ellipse24" />
+  <line
+     x1="40.42857"
+     y1="460"
+     x2="163.42857"
+     y2="460"
+     stroke="#1a6030"
+     stroke-width="1.5"
+     stroke-opacity="0.4"
+     id="line25" />
+  <text
+     x="101.42857"
+     y="480"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#1a6030"
+     id="text25">稲藁 13.8万t/年</text>
+  <text
+     x="101.42857"
+     y="366.38974"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#1a6030"
+     id="text25-9">（滋賀県）</text>
+  <text
+     x="101.42857"
+     y="494"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#1a6030"
+     id="text26">地産地消飼料を供給↓</text>
+  <!-- ===== 畜産ノード ===== -->
+  <rect
+     x="27.42857"
+     y="650"
+     width="148"
+     height="120.75"
+     rx="10"
+     fill="#3a8a7a"
+     fill-opacity="0.11"
+     stroke="#3a8a7a"
+     stroke-width="2"
+     id="rect26" />
+  <text
+     x="101.42857"
+     y="673"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#3a8a7a"
+     id="text27">畜産</text>
+  <text
+     x="101.42857"
+     y="690"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text28">牛・豚　→　糞尿</text>
+  <text
+     x="101.42857"
+     y="705"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text29">（メタン発酵に最適）</text>
+  <line
+     x1="41.42857"
+     y1="718"
+     x2="159.42857"
+     y2="718"
+     stroke="#3a8a7a"
+     stroke-width="0.8"
+     stroke-opacity="0.4"
+     stroke-dasharray="3, 2"
+     id="line29" />
+  <text
+     x="101.42857"
+     y="732"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text30">鶏　→　鶏糞</text>
+  <text
+     x="101.42857"
+     y="747"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text31">（堆肥化に最適）</text>
+  <text
+     x="101.42857"
+     y="760"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#3a8a7a"
+     id="text32">含水率低・メタン発酵不向き</text>
+  <!-- Arrow: 水田 → 畜産 (地産地消飼料) -->
+  <line
+     x1="101.42858"
+     y1="528.1076"
+     x2="101.42858"
+     y2="647.42377"
+     stroke="#1a6030"
+     stroke-width="2"
+     marker-end="url(#a-grn)"
+     id="line32"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="313.0282"
+     y1="425.55899"
+     x2="313.0282"
+     y2="645.01825"
+     stroke="#1a6030"
+     stroke-width="1.99999"
+     marker-end="url(#a-grn-1)"
+     id="line32-9"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="451.08127"
+     y1="178.3618"
+     x2="451.08127"
+     y2="206.28833"
+     stroke="#1a6030"
+     stroke-width="1.99999"
+     marker-end="url(#a-grn-1)"
+     id="line32-9-5"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8-82)" />
+  <line
+     x1="561.20367"
+     y1="178.02884"
+     x2="561.20367"
+     y2="205.95537"
+     stroke="#1a6030"
+     stroke-width="1.99999"
+     marker-end="url(#a-grn-1)"
+     id="line32-9-5-1"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8-82-1)" />
+  <!-- Arrow: もみ殻 水田→カントリーEV -->
+  <!-- Arrow: 稲藁 水田→バイオマス発電所 -->
+  <text
+     x="167.548"
+     y="239.40553"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34"
+     style="font-size:9.33333px">稲藁</text>
+  <text
+     x="382.89124"
+     y="196.82512"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-5"
+     style="font-size:9.33333px">廃熱（乾燥用）</text>
+  <text
+     x="572.18591"
+     y="196.96558"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-2"
+     style="font-size:9.33333px">余剰バイオガス</text>
+  <text
+     x="481.75436"
+     y="210.65111"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-60"
+     style="font-size:9.33333px">消石灰（再生）</text>
+  <text
+     x="112.76782"
+     y="560.65906"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-4"
+     style="font-size:9.33333px">稲藁・飼料</text>
+  <text
+     x="261.65036"
+     y="339.59851"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-6"
+     style="font-size:9.33333px">廃材・間伐材</text>
+  <text
+     x="124.80013"
+     y="143.70862"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-66"
+     style="font-size:9.33333px">もみ殻</text>
+  <!-- Arrow: 畜産（牛・豚） → バイオメタン発酵槽 -->
+  <line
+     x1="175.23892"
+     y1="698.00006"
+     x2="293.41525"
+     y2="698.00006"
+     stroke="#3a8a7a"
+     stroke-width="2.5"
+     marker-end="url(#a-tea)"
+     id="line35"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <!-- Arrow: 畜産（鶏）→ 鶏糞堆肥化 -->
+  <text
+     x="181.9248"
+     y="788.79498"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text36"
+     style="font-size:9.33333px"><tspan
+       style="fill:#7a3b10"
+       id="tspan22">鶏糞</tspan></text>
+  <text
+     x="190.65466"
+     y="690.8493"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text36-5"
+     style="font-size:9.33333px"><tspan
+       style="fill:#7a3b10"
+       id="tspan22-9">牛・豚糞尿</tspan></text>
+  <!-- ===== ROW1: もみ殻ルート ===== -->
+  <text
+     x="320.11111"
+     y="112"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11.5px"
+     font-weight="bold"
+     fill="#7a3b10"
+     id="text37">JAカントリーエレベーター</text>
+  <text
+     x="294.32785"
+     y="128.67479"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text39">もみ殻・稲藁集積拠点</text>
+  <text
+     x="299.30487"
+     y="143.67479"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text40">農協主体・動線確立済み</text>
+  <line
+     x1="334.56812"
+     y1="407.59482"
+     x2="407.63367"
+     y2="407.59482"
+     stroke="#7a3b10"
+     stroke-width="2.5"
+     marker-end="url(#a-brn-8)"
+     id="line40-5"
+     style="marker-end:url(#a-brn-8)" />
+  <line
+     x1="361.61423"
+     y1="363.71552"
+     x2="408.53021"
+     y2="363.71552"
+     stroke="#7a3b10"
+     stroke-width="2.5"
+     marker-end="url(#a-brn-8-1)"
+     id="line40-5-7"
+     style="marker-end:url(#a-brn-8-1)" />
+  <rect
+     x="415.77118"
+     y="100.56911"
+     width="185"
+     height="77.934959"
+     rx="8"
+     fill="#9a3800"
+     fill-opacity="0.11"
+     stroke="#9a3800"
+     stroke-width="1.8"
+     id="rect40" />
+  <text
+     x="508.77124"
+     y="119.56911"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11.5px"
+     font-weight="bold"
+     fill="#9a3800"
+     id="text41">ヤンマー高効率</text>
+  <text
+     x="508.77124"
+     y="136.56911"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11.5px"
+     font-weight="bold"
+     fill="#9a3800"
+     id="text42">バイオ炭製造装置</text>
+  <text
+     x="508.77124"
+     y="152.56911"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a3800"
+     id="text43">100kg/h → バイオ炭30kg/h</text>
+  <text
+     x="508.77124"
+     y="168.56911"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a3800"
+     id="text44">JAぎふ実証済み ／ NEDO GI基金</text>
+  <line
+     x1="601.71429"
+     y1="155"
+     x2="771.68524"
+     y2="155"
+     stroke="#3a3a3a"
+     stroke-width="2.50001"
+     marker-end="url(#a-dkg)"
+     id="line44"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <rect
+     x="773.38098"
+     y="126"
+     width="148"
+     height="55"
+     rx="8"
+     fill="#3a3a3a"
+     fill-opacity="0.12"
+     stroke="#3a3a3a"
+     stroke-width="1.8"
+     id="rect44" />
+  <text
+     x="847.38098"
+     y="149"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#3a3a3a"
+     id="text45">バイオ炭</text>
+  <text
+     x="847.38098"
+     y="169"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a3a3a"
+     id="text46">IPCC準拠・買取収入→農家収益化</text>
+  <!-- バイオ炭 ↓→ 農地還元 -->
+  <line
+     x1="898.8811"
+     y1="180.54312"
+     x2="898.8811"
+     y2="851.6217"
+     stroke="#3a3a3a"
+     stroke-width="1.5"
+     stroke-dasharray="7, 4"
+     id="line46"
+     style="stroke:#9a6e00;stroke-width:2.5;stroke-dasharray:9.99997, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld)" />
+  <!-- ===== ROW2: 稲藁・廃材ルート ===== -->
+  <rect
+     x="409.65079"
+     y="296"
+     width="205"
+     height="115"
+     rx="8"
+     fill="#c55a11"
+     fill-opacity="0.12"
+     stroke="#c55a11"
+     stroke-width="2"
+     id="rect46" />
+  <text
+     x="512.65076"
+     y="320"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#c55a11"
+     id="text47">バイオマス発電所</text>
+  <text
+     x="512.65076"
+     y="337"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#c55a11"
+     id="text48">既存復水機＋let-downタービン</text>
+  <text
+     x="512.65076"
+     y="353"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#c55a11"
+     id="text49">地域バイオマス発電事業者</text>
+  <text
+     x="512.65076"
+     y="369"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#c55a11"
+     id="text50">既存設備接続可能</text>
+  <text
+     x="512.65076"
+     y="384"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#c55a11"
+     id="text51">CaPPAペレット受入れ</text>
+  <text
+     x="512.65076"
+     y="399"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#c55a11"
+     id="text52">フェーズ1：NEDO実証フィールド提供</text>
+  <!-- 電力 ↑ -->
+  <line
+     x1="461.58176"
+     y1="411.08618"
+     x2="461.58176"
+     y2="449.26596"
+     stroke="#c0440a"
+     stroke-width="1.99999"
+     marker-end="url(#a-red)"
+     id="line52" />
+  <rect
+     x="396.7327"
+     y="449.96826"
+     width="122"
+     height="38"
+     rx="6"
+     fill="#c0440a"
+     fill-opacity="0.11"
+     stroke="#c0440a"
+     stroke-width="1.5"
+     id="rect52" />
+  <text
+     x="457.73267"
+     y="469.96826"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#c0440a"
+     id="text53">電力</text>
+  <text
+     x="457.73267"
+     y="482.96826"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#c0440a"
+     id="text54">地域電力網へ供給</text>
+  <!-- 廃熱 → SSF -->
+  <line
+     x1="614.19141"
+     y1="323.71222"
+     x2="678.85828"
+     y2="323.71222"
+     stroke="#c55a11"
+     stroke-width="2.5"
+     marker-end="url(#a-org)"
+     id="line54" />
+  <text
+     x="647.89221"
+     y="294.17242"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#c55a11"
+     id="text55"
+     style="font-size:9.33333px">廃熱</text>
+  <text
+     x="918.86938"
+     y="311.46045"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#c55a11"
+     id="text55-2-1"
+     style="font-size:9.33333px;fill:#7a3b10">発酵液</text>
+  <text
+     x="647.89221"
+     y="308.17242"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#c55a11"
+     id="text56"
+     style="font-size:9.33333px">80〜150℃</text>
+  <rect
+     x="681.65082"
+     y="296"
+     width="195"
+     height="115"
+     rx="8"
+     fill="#2a5090"
+     fill-opacity="0.12"
+     stroke="#2a5090"
+     stroke-width="2"
+     id="rect56" />
+  <text
+     x="779.65082"
+     y="320"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#2a5090"
+     id="text57">SSF発酵タンク</text>
+  <text
+     x="779.65082"
+     y="337"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#2a5090"
+     id="text58">同時糖化発酵</text>
+  <line
+     x1="698.65082"
+     y1="349"
+     x2="859.65082"
+     y2="349"
+     stroke="#2a5090"
+     stroke-width="0.8"
+     stroke-opacity="0.4"
+     stroke-dasharray="3, 2"
+     id="line58" />
+  <text
+     x="779.65082"
+     y="361"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#2a5090"
+     id="text59">上：酵素糖化　下：アルコール発酵</text>
+  <text
+     x="779.65082"
+     y="374"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#2a5090"
+     id="text60">エタノール：1,444 t/年</text>
+  <text
+     x="779.65082"
+     y="386"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#2a5090"
+     id="text61">発酵CO₂：約1,380 t/年</text>
+  <text
+     x="779.65082"
+     y="399"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#2a5090"
+     id="text62">廃熱活用で蒸留省エネ化</text>
+  <!-- SSF → エタノール蒸留 -->
+  <line
+     x1="876.47778"
+     y1="323.71222"
+     x2="938.67169"
+     y2="323.71222"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu)"
+     id="line62"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="489.03845"
+     y1="674.33618"
+     x2="542.67126"
+     y2="674.33618"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu-1)"
+     id="line62-4"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="692.22961"
+     y1="675.23779"
+     x2="733.58533"
+     y2="675.23779"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu-1-8)"
+     id="line62-4-0"
+     style="stroke:#2a7a4a;stroke-width:1.5;stroke-dasharray:6.25, 3.75;stroke-dashoffset:0;marker-end:url(#a-tea)" />
+  <line
+     x1="488.5134"
+     y1="722.43964"
+     x2="542.43951"
+     y2="722.43964"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu-1-1)"
+     id="line62-4-8"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="1110.3275"
+     y1="333.71222"
+     x2="1190.6888"
+     y2="333.71222"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu-2)"
+     id="line62-8"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="1091.1034"
+     y1="890.54315"
+     x2="1035.2913"
+     y2="890.54315"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu-2-7)"
+     id="line62-8-1"
+     style="stroke:#9a6e00;stroke-dasharray:9.99996, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld)" />
+  <line
+     x1="1358.519"
+     y1="855.02588"
+     x2="1298.5812"
+     y2="855.02588"
+     stroke="#2a5090"
+     stroke-width="2.5"
+     marker-end="url(#a-blu-2-7-9)"
+     id="line62-8-1-5"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <rect
+     x="940.50793"
+     y="295"
+     width="170.94827"
+     height="65"
+     rx="8.8231363"
+     fill="#2a5090"
+     fill-opacity="0.11"
+     stroke="#2a5090"
+     stroke-width="1.8"
+     id="rect62" />
+  <text
+     x="1025.7134"
+     y="317"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#2a5090"
+     id="text63">エタノール</text>
+  <text
+     x="1025.9821"
+     y="334"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#2a5090"
+     id="text64">蒸留精製</text>
+  <text
+     x="1025.9956"
+     y="350"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#2a5090"
+     id="text65">廃熱活用で省エネ化</text>
+  <!-- エタノール → Revolefin -->
+  <!-- SSF → 発酵CO₂ ↓ -->
+  <line
+     x1="758.91736"
+     y1="411.19882"
+     x2="758.91736"
+     y2="449.16394"
+     stroke="#1e7080"
+     stroke-width="2.00001"
+     marker-end="url(#a-tel)"
+     id="line66"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <line
+     x1="1475.9312"
+     y1="397.5"
+     x2="1475.9312"
+     y2="441.52841"
+     stroke="#1e7080"
+     stroke-width="2.00001"
+     marker-end="url(#a-tel-5)"
+     id="line66-1"
+     style="stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#a-brn-8)" />
+  <line
+     x1="1514.9482"
+     y1="441.22415"
+     x2="1514.9482"
+     y2="399.39099"
+     stroke="#1e7080"
+     stroke-width="2.00001"
+     marker-end="url(#a-tel-5-8)"
+     id="line66-1-7"
+     style="stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#a-brn-8)" />
+  <line
+     x1="1371.6207"
+     y1="832.14349"
+     x2="1371.6207"
+     y2="794.31543"
+     stroke="#1e7080"
+     stroke-width="2.00001"
+     marker-end="url(#a-tel-5-8-7)"
+     id="line66-1-7-7"
+     style="stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#a-brn-8)" />
+  <text
+     x="771.6991"
+     y="434.41833"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text67"
+     style="fill:#7a3b10">発酵CO₂</text>
+  <text
+     x="860.52124"
+     y="472.16837"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text67-9"
+     style="fill:#7a3b10">発酵CO₂</text>
+  <text
+     x="837.01196"
+     y="535.55927"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text67-9-1"
+     style="fill:#7a3b10">プレス・乾燥</text>
+  <line
+     x1="726.20331"
+     y1="450.05692"
+     x2="726.20331"
+     y2="413.29358"
+     stroke="#1e7080"
+     stroke-width="2.00002"
+     marker-end="url(#a-tel)"
+     id="line66-2"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8-13)" />
+  <text
+     x="665.20459"
+     y="434.0488"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text67-7"
+     style="fill:#7a3b10">スラリー液</text>
+  <!-- ===== ROW3: 炭酸化ループ ===== -->
+  <!-- Ca(OH)₂ input -->
+  <text
+     x="534.68414"
+     y="523.98492"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text68"
+     style="font-size:9.33333px;fill:#7a3b10">Ca(OH)₂</text>
+  <text
+     x="534.27563"
+     y="510.37592"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text68-1"
+     style="font-size:9.33333px;fill:#7a3b10">CaPPAペレット</text>
+  <text
+     x="535.02264"
+     y="538.07037"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#1e7080"
+     id="text69"
+     style="font-size:9.33333px;fill:#7a3b10">約453 t/年</text>
+  <rect
+     x="604.47906"
+     y="450"
+     width="195"
+     height="88"
+     rx="8"
+     fill="#1e7080"
+     fill-opacity="0.12"
+     stroke="#1e7080"
+     stroke-width="2"
+     id="rect69" />
+  <text
+     x="702.49158"
+     y="466"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#1e7080"
+     id="text70">炭酸化タンク</text>
+  <text
+     x="701.97906"
+     y="499"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#1e7080"
+     id="text71">Ca(OH)₂ + CO₂ → CaCO₃ + H₂O</text>
+  <text
+     x="701.85406"
+     y="482.48083"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#1e7080"
+     id="text71-8">CaPPAペレット再スラリー化</text>
+  <text
+     x="701.7843"
+     y="515"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1e7080"
+     id="text72">常温・常圧・追加熱源不要</text>
+  <text
+     x="704.84558"
+     y="530"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#1e7080"
+     id="text73">CaCO₃生成：約613 t/年（自己完結）</text>
+  <!-- 炭酸化 → CaCO₃ -->
+  <!-- 炭酸化 → 余剰CO₂ -->
+  <rect
+     x="942.16229"
+     y="460"
+     width="167.6396"
+     height="40"
+     rx="6.6173525"
+     fill="#eeeeee"
+     fill-opacity="0.9"
+     stroke="#aaaaaa"
+     stroke-width="1"
+     id="rect74" />
+  <text
+     x="1026.0271"
+     y="477"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text74">余剰CO₂ 約1,110 t/年</text>
+  <text
+     x="1025.1533"
+     y="492"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#888888"
+     id="text75">ドライアイス・施設園芸　※固定効果なし</text>
+  <rect
+     x="942.16229"
+     y="509"
+     width="167.6396"
+     height="63"
+     rx="8.8231363"
+     fill="#1e7080"
+     fill-opacity="0.11"
+     stroke="#1e7080"
+     stroke-width="1.8"
+     id="rect75" />
+  <text
+     x="1025.8774"
+     y="532"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1e7080"
+     id="text76">CaCO₃</text>
+  <rect
+     x="545.13831"
+     y="206.78746"
+     width="167.6396"
+     height="51.617882"
+     rx="8"
+     fill="#1e7080"
+     fill-opacity="0.11"
+     stroke="#1e7080"
+     stroke-width="1.8"
+     id="rect75-8" />
+  <text
+     x="628.85339"
+     y="229.78749"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#1e7080"
+     id="text76-2">ライム再生炉（焼成）</text>
+  <text
+     x="1029.2971"
+     y="549"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#1e7080"
+     id="text77">炭酸カルシウム（製品／キャリア）</text>
+  <text
+     x="630.24359"
+     y="246.48811"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#1e7080"
+     id="text77-1">CaCO₃→CaO→消石灰（二次燃焼）</text>
+  <text
+     x="1026.036"
+     y="563"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#1e7080"
+     id="text78">CO₂無機固定 約270t（会計外）</text>
+  <!-- CaCO₃ ↓ → 農地還元 -->
+  <line
+     x1="957.29535"
+     y1="622.9549"
+     x2="957.29535"
+     y2="851.38599"
+     stroke="#1e7080"
+     stroke-width="1.5"
+     stroke-dasharray="7, 4"
+     id="line78"
+     style="stroke:#9a6e00;stroke-width:2.5;stroke-dasharray:9.99995, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld)" />
+  <!-- ===== ROW4: 畜産循環 ===== -->
+  <!-- バイオメタン発酵槽（牛・豚糞尿） -->
+  <rect
+     x="296.42856"
+     y="647"
+     width="192"
+     height="92"
+     rx="8"
+     fill="#3a8a7a"
+     fill-opacity="0.12"
+     stroke="#3a8a7a"
+     stroke-width="2"
+     id="rect78" />
+  <text
+     x="392.42856"
+     y="670"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#3a8a7a"
+     id="text79">バイオメタン発酵槽</text>
+  <text
+     x="392.42856"
+     y="686"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text80">牛・豚糞尿（メタン発酵・最適）</text>
+  <text
+     x="392.42856"
+     y="700"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text81">草・葦とコファーメンテーション</text>
+  <text
+     x="392.42856"
+     y="714"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text82">ダイハツ竜王モデル（既存実績）</text>
+  <text
+     x="392.42856"
+     y="728"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text83">農研機構・近江牛連携</text>
+  <!-- 発酵槽 → バイオメタン -->
+  <!-- 発酵槽 → 消化液液肥 -->
+  <!-- バイオメタン -->
+  <rect
+     x="544.57141"
+     y="646.25018"
+     width="148"
+     height="50"
+     rx="7"
+     fill="#3a8a7a"
+     fill-opacity="0.11"
+     stroke="#3a8a7a"
+     stroke-width="1.8"
+     id="rect84" />
+  <text
+     x="618.57141"
+     y="667.25018"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#3a8a7a"
+     id="text84">バイオメタン</text>
+  <text
+     x="618.57141"
+     y="684.25018"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text85">精製・圧縮充填（農協拠点）</text>
+  <!-- バイオメタン → 農機具燃料 (Phase3 dashed) -->
+  <rect
+     x="734.35529"
+     y="646.42749"
+     width="148"
+     height="50"
+     rx="7"
+     fill="#3a8a7a"
+     fill-opacity="0.08"
+     stroke="#3a8a7a"
+     stroke-width="1.2"
+     stroke-dasharray="5, 3"
+     id="rect85" />
+  <text
+     x="808.35541"
+     y="665.42749"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     fill="#3a8a7a"
+     id="text86">農機具燃料</text>
+  <text
+     x="810.35541"
+     y="685.42749"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#3a8a7a"
+     id="text87">軽油70%＋メタン30%（フェーズ3）</text>
+  <!-- バイオメタン余剰 → フェーズ3接続 dashed -->
+  <!-- 消化液液肥 -->
+  <rect
+     x="544.57141"
+     y="709"
+     width="148"
+     height="42"
+     rx="7"
+     fill="#3a8a7a"
+     fill-opacity="0.1"
+     stroke="#3a8a7a"
+     stroke-width="1.5"
+     id="rect88" />
+  <text
+     x="618.57141"
+     y="727"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     fill="#3a8a7a"
+     id="text89">消化液（液肥）</text>
+  <text
+     x="618.57141"
+     y="743"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text90">窒素・リン・カリウム → 農地還元</text>
+  <!-- 消化液 ↓ → 農地還元 -->
+  <line
+     x1="618.57141"
+     y1="751.98834"
+     x2="618.57141"
+     y2="852.20349"
+     stroke="#3a8a7a"
+     stroke-width="1.5"
+     stroke-dasharray="6, 4"
+     id="line90"
+     style="stroke:#9a6e00;stroke-width:2.5;stroke-dasharray:9.99995, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld)" />
+  <line
+     x1="392.23276"
+     y1="810.21234"
+     x2="392.23276"
+     y2="852.51276"
+     stroke="#3a8a7a"
+     stroke-width="1.5"
+     stroke-dasharray="6, 4"
+     id="line90-3"
+     style="stroke:#9a6e00;stroke-width:2.5;stroke-dasharray:9.99992, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld)" />
+  <!-- 鶏糞堆肥化 -->
+  <rect
+     x="622"
+     y="568"
+     width="148"
+     height="75"
+     rx="7"
+     fill="#7a6030"
+     fill-opacity="0.11"
+     stroke="#7a6030"
+     stroke-width="1.8"
+     style="display:none"
+     id="rect90" />
+  <!-- reposition: let me use better x position -->
+  <!-- Actually 鶏糞堆肥化 arrow goes from 畜産(鶏) to a composting node -->
+  <!-- 畜産(鶏)→鶏糞 line was at x1=170, y1=625 x2=430, y2=608 above -->
+  <!-- Now add 鶏糞堆肥化 node at the end of that arrow -->
+  <rect
+     x="296.84726"
+     y="746"
+     width="192.16048"
+     height="65"
+     rx="9.0886707"
+     fill="#7a6030"
+     fill-opacity="0.11"
+     stroke="#7a6030"
+     stroke-width="1.80001"
+     id="rect91" />
+  <text
+     x="392.92203"
+     y="767"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#7a6030"
+     id="text91">鶏糞完熟堆肥化</text>
+  <text
+     x="395.785"
+     y="783"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a6030"
+     id="text92">窒素（N）・リン（P）・カリウム（K）</text>
+  <text
+     x="392.4595"
+     y="796"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a6030"
+     id="text93">※付録O：滋賀県畜産堆肥で農地充足</text>
+  <!-- 鶏糞堆肥 → 農地還元 -->
+  <!-- Fix: the 畜産(鶏)→鶏糞堆肥化 arrow needs to reach y=668 -->
+  <!-- The arrow I already placed goes to y=608, need to extend to 668 -->
+  <!-- Let me just redraw that arrow going more steeply -->
+  <!-- ===== ROW5: 農地還元 ===== -->
+  <rect
+     x="321"
+     y="854"
+     width="712"
+     height="80"
+     rx="11.212599"
+     fill="#3d7a2a"
+     fill-opacity="0.13"
+     stroke="#3d7a2a"
+     stroke-width="2"
+     id="rect93" />
+  <text
+     x="684"
+     y="877"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#3d7a2a"
+     id="text94">農地還元（琵琶湖システムへ還元）</text>
+  <text
+     x="684"
+     y="894"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#3d7a2a"
+     id="text95">バイオ炭　＋　CaCO₃　＋　鶏糞堆肥　＋　消化液液肥</text>
+  <text
+     x="684"
+     y="909"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#3d7a2a"
+     id="text96">土壌炭素固定・野焼きゼロ・pH調整・N/P/K地域自給（フェーズ1〜2）</text>
+  <text
+     x="684"
+     y="923"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3d7a2a"
+     id="text97">＋グリーンアンモニア（速効性N補完・フェーズ3）</text>
+  <!-- 循環ループ → 水田 -->
+  <!-- ===== 人間：炭素サイクルの一部 ===== -->
+  <!-- 農地還元 → 食料 → 人間 -->
+  <text
+     x="1157.9086"
+     y="950.67627"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#1a6030"
+     id="text100"
+     style="font-size:9.33333px;fill:#7a3b10">食料</text>
+  <!-- 人間ノード -->
+  <rect
+     x="1357.1361"
+     y="831.97229"
+     width="185.34483"
+     height="88.476189"
+     rx="9.2672415"
+     fill="#92400e"
+     fill-opacity="0.1"
+     stroke="#92400e"
+     stroke-width="2"
+     id="rect100" />
+  <text
+     x="1450.1655"
+     y="856.97229"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="14px"
+     font-weight="bold"
+     fill="#92400e"
+     id="text101">人間</text>
+  <text
+     x="1449.818"
+     y="873.97229"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#92400e"
+     id="text102">食べる・呼吸・排泄</text>
+  <line
+     x1="1374.8085"
+     y1="889.97229"
+     x2="1524.8085"
+     y2="889.97229"
+     stroke="#92400e"
+     stroke-width="0.8"
+     stroke-opacity="0.3"
+     stroke-dasharray="3, 2"
+     id="line102" />
+  <text
+     x="1449.8297"
+     y="902.97229"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#92400e"
+     id="text103">人間も炭素サイクルの一部</text>
+  <!-- 呼気CO₂ → 大気 ↑（光合成に戻る） -->
+  <!-- 人間 → 下水処理 -->
+  <text
+     x="1303.4952"
+     y="838.43317"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#555555"
+     id="text107"
+     style="font-size:9.33333px;fill:#7a3b10">排泄・下水</text>
+  <!-- 下水処理・リン回収ノード（フェーズ3） -->
+  <rect
+     x="1090.2885"
+     y="833.08911"
+     width="205"
+     height="87.099014"
+     rx="8"
+     fill="#1e7080"
+     fill-opacity="0.1"
+     stroke="#1e7080"
+     stroke-width="1.5"
+     stroke-dasharray="5, 3"
+     id="rect107" />
+  <text
+     x="1193.2885"
+     y="852.08832"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#1e7080"
+     id="text108">下水処理</text>
+  <text
+     x="1193.2885"
+     y="868.08832"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#1e7080"
+     id="text109">リン回収</text>
+  <text
+     x="1193.2885"
+     y="886.08832"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#1e7080"
+     id="text110">窒素・リン・カリウムを農地に還す</text>
+  <text
+     x="1193.2885"
+     y="899.08832"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#1e7080"
+     id="text111">フェーズ3：N/P/K地域循環の完成</text>
+  <text
+     x="1193.2885"
+     y="912.08832"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8px"
+     fill="#aaaaaa"
+     id="text112">（下水リン回収はフェーズ3目標）</text>
+  <!-- 下水処理リン回収 → 農地還元（ループ） -->
+  <text
+     x="1053.2413"
+     y="874.24139"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#1e7080"
+     id="text113"
+     style="font-size:9.33333px;fill:#9a6e00">P還元</text>
+  <!-- 人間 → 食品残渣 → J&T環境（曲線） -->
+  <text
+     x="1472.75"
+     y="814.51331"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text114"
+     style="font-size:9.33333px;fill:#7a3b10">食品残渣（容器付き一括受入・選別不要）</text>
+  <!-- ===== ROW6: フェーズ3 将来構想 ===== -->
+  <rect
+     x="633.02631"
+     y="976.56195"
+     width="926.57886"
+     height="156.00507"
+     rx="10.926637"
+     fill="#e8f4e8"
+     fill-opacity="0.5"
+     stroke="#2a7a4a"
+     stroke-width="1.5"
+     stroke-dasharray="8, 4"
+     id="rect114" />
+  <text
+     x="1105.0242"
+     y="999.56439"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#2a7a4a"
+     id="text115">フェーズ3 将来構想（2040年代〜　MSR・再生可能エネルギー基盤確立後）</text>
+  <!-- 再生可能エネルギー -->
+  <rect
+     x="662.60681"
+     y="1044.5645"
+     width="148"
+     height="72"
+     rx="8"
+     fill="#2a7a4a"
+     fill-opacity="0.12"
+     stroke="#2a7a4a"
+     stroke-width="1.5"
+     stroke-dasharray="5, 3"
+     id="rect115" />
+  <text
+     x="736.60687"
+     y="1063.2949"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#2a7a4a"
+     id="text116">再生可能エネルギー</text>
+  <text
+     x="736.60687"
+     y="1089.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text118">太陽光・風力・水力・地熱</text>
+  <text
+     x="736.60687"
+     y="1100.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text119">／MSR（溶融塩炉）</text>
+  <line
+     x1="810.75348"
+     y1="1080.5645"
+     x2="857.27454"
+     y2="1080.5645"
+     stroke="#2a7a4a"
+     stroke-width="1.8"
+     stroke-dasharray="4, 3"
+     marker-end="url(#a-p3g)"
+     id="line119"
+     style="marker-end:url(#a-tea)" />
+  <!-- 水電解装置 -->
+  <rect
+     x="858.67065"
+     y="1044.5645"
+     width="148"
+     height="72"
+     rx="8"
+     fill="#2a5090"
+     fill-opacity="0.1"
+     stroke="#2a5090"
+     stroke-width="1.5"
+     stroke-dasharray="5, 3"
+     id="rect119" />
+  <text
+     x="932.77692"
+     y="1063.0969"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#2a5090"
+     id="text120">水電解装置</text>
+  <text
+     x="932.61743"
+     y="1081.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#2a5090"
+     id="text121">SOEC高温水電解</text>
+  <text
+     x="935.51141"
+     y="1097.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a5090"
+     id="text122">効率＋30%（700〜800℃）</text>
+  <text
+     x="932.36218"
+     y="1108.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a5090"
+     id="text123">MSR高温熱と直接接続</text>
+  <line
+     x1="1006.6328"
+     y1="1080.5645"
+     x2="1053.858"
+     y2="1080.5645"
+     stroke="#2a5090"
+     stroke-width="1.80001"
+     stroke-dasharray="4, 3"
+     marker-end="url(#a-p3g)"
+     id="line123"
+     style="stroke:#2a7a4a;marker-end:url(#a-tea)" />
+  <!-- H₂ label on arrow -->
+  <text
+     x="1030.7017"
+     y="1057.2542"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#555555"
+     id="text124"
+     style="font-size:9.33333px;fill:#2a7a4a">H₂</text>
+  <text
+     x="1030.4861"
+     y="1069.2627"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="7.5px"
+     fill="#888888"
+     id="text125"
+     style="font-size:9.33333px;fill:#2a7a4a">中間変換</text>
+  <!-- ハーバー・ボッシュ炉 -->
+  <rect
+     x="1054.7345"
+     y="1044.5645"
+     width="160"
+     height="72"
+     rx="8"
+     fill="#7a6a3a"
+     fill-opacity="0.1"
+     stroke="#7a6a3a"
+     stroke-width="1.5"
+     stroke-dasharray="5, 3"
+     id="rect125" />
+  <line
+     x1="1214.5121"
+     y1="1080.5645"
+     x2="1261.6815"
+     y2="1080.5645"
+     stroke="#2a7a4a"
+     stroke-width="1.79999"
+     stroke-dasharray="4, 3"
+     marker-end="url(#a-p3g)"
+     id="line129"
+     style="marker-end:url(#a-tea-9)" />
+  <!-- グリーンアンモニア -->
+  <rect
+     x="1262.7955"
+     y="1044.5645"
+     width="155"
+     height="72"
+     rx="8"
+     fill="#2a7a4a"
+     fill-opacity="0.12"
+     stroke="#2a7a4a"
+     stroke-width="1.5"
+     stroke-dasharray="5, 3"
+     id="rect129" />
+  <text
+     x="1340.3285"
+     y="1063.2399"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#2a7a4a"
+     id="text130"
+     style="font-size:11px">グリーンアンモニア</text>
+  <text
+     x="1340.2913"
+     y="1087.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text132">貯蔵・輸送可能</text>
+  <text
+     x="1340.6058"
+     y="1098.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text133">水素脆性問題なし</text>
+  <!-- グリーンアンモニア → 農地還元（窒素補完）↑ -->
+  <text
+     x="792.20074"
+     y="962.01184"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text134"
+     style="font-size:9.33333px">速効性N補完</text>
+  <!-- グリーンアンモニア → アンモニア専焼・燃料船 → -->
+  <line
+     x1="1417.6069"
+     y1="1080.5645"
+     x2="1464.0947"
+     y2="1080.5645"
+     stroke="#2a7a4a"
+     stroke-width="1.5"
+     stroke-dasharray="4, 3"
+     marker-end="url(#a-p3g)"
+     id="line134"
+     style="marker-end:url(#a-tea-9)" />
+  <rect
+     x="1465.6069"
+     y="1049.3746"
+     width="68"
+     height="60.991173"
+     rx="6"
+     fill="#2a7a4a"
+     fill-opacity="0.08"
+     stroke="#2a7a4a"
+     stroke-width="0.999997"
+     stroke-dasharray="4, 3"
+     id="rect134" />
+  <text
+     x="1499.5466"
+     y="1076.9579"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text135">専焼発電</text>
+  <text
+     x="1499.5764"
+     y="1065.4363"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text135-0">冷媒</text>
+  <text
+     x="1499.5934"
+     y="1088.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#2a7a4a"
+     id="text136">燃料船</text>
+  <text
+     x="1499.5536"
+     y="1100.5645"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="7.5px"
+     fill="#888888"
+     id="text137">余剰分</text>
+  <!-- ===== RIGHT PANEL ===== -->
+  <!-- CO₂固定サマリー -->
+  <rect
+     x="1173.4965"
+     y="95"
+     width="397"
+     height="192"
+     rx="10.586667"
+     fill="#1a2535"
+     fill-opacity="0.05"
+     stroke="#1a2535"
+     stroke-width="1.5"
+     id="rect137" />
+  <text
+     x="1375.8027"
+     y="118"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#1a2535"
+     id="text138">CO₂固定・排出回避の積み上げ（滋賀県・保守）</text>
+  <line
+     x1="1191.7214"
+     y1="125"
+     x2="1556.2014"
+     y2="125"
+     stroke="#1a2535"
+     stroke-width="0.8"
+     stroke-opacity="0.25"
+     id="line138" />
+  <text
+     x="1194.4921"
+     y="144"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#444444"
+     id="text139">永続除去：バイオ炭土壌固定</text>
+  <text
+     x="1525.4921"
+     y="144"
+     text-anchor="end"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#444444"
+     id="text140">約 1.1万 t-CO₂/年</text>
+  <text
+     x="1194.4921"
+     y="164"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#444444"
+     id="text141">製品／循環キャリア：CaCO₃</text>
+  <text
+     x="1525.4921"
+     y="164"
+     text-anchor="end"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#444444"
+     id="text142">約 270 t-CO₂/年</text>
+  <text
+     x="1194.4921"
+     y="184"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#444444"
+     id="text143">排出回避：野焼き中止 CH₄・N₂O</text>
+  <text
+     x="1525.4921"
+     y="184"
+     text-anchor="end"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#444444"
+     id="text144">約 1.4〜2万 t-CO₂e/年</text>
+  <text
+     x="1194.4921"
+     y="201"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#777777"
+     id="text145">　└ バイオプラ封入・化石代替（参考 約0.5万t）</text>
+  <line
+     x1="1191.7214"
+     y1="209"
+     x2="1556.2014"
+     y2="209"
+     stroke="#1a2535"
+     stroke-width="1"
+     stroke-opacity="0.4"
+     id="line145" />
+  <text
+     x="1194.4921"
+     y="228"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="13px"
+     font-weight="bold"
+     fill="#1a2535"
+     id="text146">中核合計</text>
+  <text
+     x="1525.4921"
+     y="232"
+     text-anchor="end"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="15px"
+     font-weight="bold"
+     fill="#1a6030"
+     id="text147">約 2.5〜3.1万 t-CO₂e/年</text>
+  <text
+     x="1372.0332"
+     y="254"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.5px"
+     fill="#555555"
+     id="text148">永続除去 約1.1万t（バイオ炭）＝ 森林 約2,750ha</text>
+  <text
+     x="1372.2292"
+     y="270"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#777777"
+     id="text149">※稲藁燃焼のCO₂は炭素中立のため計上せず（除去と回避を分離）</text>
+  <!-- Revolefin + バイオプラ -->
+  <rect
+     x="1193.4921"
+     y="300"
+     width="185"
+     height="98"
+     rx="8"
+     fill="#9a6e00"
+     fill-opacity="0.12"
+     stroke="#9a6e00"
+     stroke-width="2"
+     id="rect149" />
+  <text
+     x="1286.4921"
+     y="324"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="13px"
+     font-weight="bold"
+     fill="#9a6e00"
+     id="text150">Revolefin™</text>
+  <text
+     x="1286.4921"
+     y="341"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#9a6e00"
+     id="text151">旭化成×三井化学×三菱ケミカル</text>
+  <text
+     x="1286.4921"
+     y="357"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#9a6e00"
+     id="text152">エタノール→エチレン・プロピレン</text>
+  <text
+     x="1286.4921"
+     y="373"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#9a6e00"
+     id="text153">初期設備：水島（岡山県倉敷市）</text>
+  <text
+     x="1286.4921"
+     y="389"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a6e00"
+     id="text154">商用生産 2034年〜</text>
+  <line
+     x1="1379.0186"
+     y1="333.71222"
+     x2="1420.6847"
+     y2="333.71222"
+     stroke="#9a6e00"
+     stroke-width="2.5"
+     marker-end="url(#a-gld)"
+     id="line154"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8)" />
+  <rect
+     x="1422.4965"
+     y="300"
+     width="148"
+     height="98"
+     rx="8"
+     fill="#9a6e00"
+     fill-opacity="0.09"
+     stroke="#9a6e00"
+     stroke-width="1.5"
+     id="rect154" />
+  <text
+     x="1496.8464"
+     y="324"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#9a6e00"
+     id="text155">バイオ</text>
+  <text
+     x="1496.4714"
+     y="341"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="12.5px"
+     font-weight="bold"
+     fill="#9a6e00"
+     id="text156">プラスチック</text>
+  <text
+     x="1496.24"
+     y="358"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a6e00"
+     id="text157">PE・PP・PS・PET等</text>
+  <text
+     x="1496.4785"
+     y="373"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a6e00"
+     id="text158">炭素固定継続</text>
+  <text
+     x="1495.5155"
+     y="387"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a6e00"
+     id="text159">↓四段階リサイクルへ</text>
+  <!-- リサイクルヒエラルキー -->
+  <rect
+     x="1173.4965"
+     y="442"
+     width="397"
+     height="225.15475"
+     rx="10.586667"
+     fill="#9a6e00"
+     fill-opacity="0.07"
+     stroke="#9a6e00"
+     stroke-width="1.19999"
+     id="rect159" />
+  <text
+     x="1372.0769"
+     y="464"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11.5px"
+     font-weight="bold"
+     fill="#9a6e00"
+     id="text160">廃バイオプラ 四段階リサイクル</text>
+  <line
+     x1="1173"
+     y1="653.75"
+     x2="1112.0637"
+     y2="653.75"
+     stroke="#9a6e00"
+     stroke-width="2.49999"
+     marker-end="url(#a-gld)"
+     id="line154-5"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8-8)" />
+  <line
+     x1="545.98804"
+     y1="223.27376"
+     x2="476.21616"
+     y2="223.27376"
+     stroke="#9a6e00"
+     stroke-width="2.49999"
+     marker-end="url(#a-gld)"
+     id="line154-5-6"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8-8-5)" />
+  <text
+     x="1371.9537"
+     y="479"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#9a6e00"
+     id="text161">炭素を材料循環に留め続けることが設計の核心</text>
+  <line
+     x1="1191.7214"
+     y1="485"
+     x2="1556.2014"
+     y2="485"
+     stroke="#9a6e00"
+     stroke-width="0.8"
+     stroke-opacity="0.4"
+     id="line161" />
+  <text
+     x="1192.4921"
+     y="502"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text162">① マテリアルリサイクル（J&amp;T環境）</text>
+  <text
+     x="1192.4921"
+     y="520"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text163">② 油化型ケミカル（三菱ケミカル×ENEOS・HydroPRS™）</text>
+  <text
+     x="1192.4921"
+     y="538"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text164">③ ガス化型ケミカル（レゾナック KPR）化石由来・分別困難混合廃プラ対象</text>
+  <text
+     x="1192.4921"
+     y="556"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text165">④ サーマルリサイクル（最終手段）</text>
+  <line
+     x1="1191.7214"
+     y1="564"
+     x2="1556.2014"
+     y2="564"
+     stroke="#9a6e00"
+     stroke-width="0.5"
+     stroke-opacity="0.3"
+     id="line165" />
+  <text
+     x="1192.4921"
+     y="581"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#999999"
+     id="text166">※③分別可能なバイオ由来プラへの単独適用は不適：光合成固定炭素が数日〜数週間で大気還元</text>
+  <text
+     x="1192.4921"
+     y="593"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#999999"
+     id="text166b">　　分別困難混合廃プラにバイオ由来が混在する場合はサーマルよりガス化（水素回収）を優先</text>
+  <text
+     x="1192.4921"
+     y="610"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#9a6e00"
+     id="text167">→ ②油化→Revolefin™還流：バイオ炭素の材料循環維持</text>
+  <text
+     x="1192.4921"
+     y="625"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#9a6e00"
+     id="text168">→ 大気から社会へ炭素を移行させる設計</text>
+  <text
+     x="1192.4921"
+     y="644"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#777777"
+     id="text169">※注：レゾナック×マイクロ波化学（直接オレフィン化・GI基金採択）</text>
+  <text
+     x="1192.4921"
+     y="657"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#777777"
+     id="text170">　　も②同等の将来候補（PET/PVC含む五元系・収率70wt%）</text>
+  <!-- フェーズ3右パネル補足 -->
+  <rect
+     x="234.17241"
+     y="976.94525"
+     width="375"
+     height="155"
+     rx="10"
+     fill="#2a7a4a"
+     fill-opacity="0.05"
+     stroke="#2a7a4a"
+     stroke-width="1.2"
+     stroke-dasharray="6, 4"
+     id="rect170"
+     style="fill:#e8f4e8;fill-opacity:0.501961;stroke:#2a7a4a;stroke-width:1.5;stroke-dasharray:8, 4;stroke-dashoffset:0" />
+  <text
+     x="422.17242"
+     y="997.94531"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#2a7a4a"
+     id="text171">フェーズ3 エネルギー層（将来構想）</text>
+  <line
+     x1="251.17242"
+     y1="1004.9453"
+     x2="591.17236"
+     y2="1004.9453"
+     stroke="#2a7a4a"
+     stroke-width="0.7"
+     stroke-opacity="0.4"
+     id="line171" />
+  <text
+     x="253.17242"
+     y="1020.9452"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text172">電力層：バイオマス発電 ＋ 再生可能エネルギー ／ MSR</text>
+  <text
+     x="253.17242"
+     y="1037.9453"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text173">熱・燃料層：バイオメタン → 農機具軽油30%代替</text>
+  <text
+     x="253.17242"
+     y="1054.9451"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text174">貯蔵・輸送：グリーンアンモニア（つばめBHB・低温低圧オンサイト合成）</text>
+  <text
+     x="253.17242"
+     y="1071.9451"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text175">窒素肥料：主役は鶏糞堆肥・消化液　補完にグリーンNH₃</text>
+  <text
+     x="253.17242"
+     y="1088.9453"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#2a7a4a"
+     id="text176">余剰NH₃→アンモニア専焼発電・燃料船（NYK 2028年商業化目標）</text>
+  <text
+     x="253.17242"
+     y="1104.9453"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#777777"
+     id="text177">MSR（溶融塩炉）700〜800℃：SOEC高温水電解・リグニン素材化と直結</text>
+  <text
+     x="253.17242"
+     y="1121.9453"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#999999"
+     id="text178">石炭火力混焼は2040年+2.0℃目標と不整合→専焼・燃料船用途に限定</text>
+  <!-- ===== J&T環境 食品廃棄物バイオガス（右パネル） ===== -->
+  <rect
+     x="1173.4965"
+     y="682.03174"
+     width="396.70673"
+     height="109.30159"
+     rx="10.721803"
+     fill="#3a8a7a"
+     fill-opacity="0.1"
+     stroke="#3a8a7a"
+     stroke-width="1.8"
+     id="rect178" />
+  <text
+     x="1372.2139"
+     y="706.03174"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="13px"
+     font-weight="bold"
+     fill="#3a8a7a"
+     id="text179">J&amp;T環境　食品廃棄物バイオガス</text>
+  <text
+     x="1374.9374"
+     y="724.03174"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#3a8a7a"
+     id="text180">容器付き一括受入・選別不要（小牧モデル実績）</text>
+  <line
+     x1="1191.7214"
+     y1="732.0351"
+     x2="1554.9135"
+     y2="732.0351"
+     stroke="#3a8a7a"
+     stroke-width="0.8"
+     stroke-opacity="0.3"
+     stroke-dasharray="3, 2"
+     id="line180" />
+  <text
+     x="1190.4921"
+     y="747.03174"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#555555"
+     id="text181">バイオガス発電（1,100kW）→ 電力</text>
+  <text
+     x="1190.4921"
+     y="763.03174"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     fill="#555555"
+     id="text182">発酵残渣 → 肥料化 → 農地還元</text>
+  <text
+     x="1190.4921"
+     y="779.03174"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#3a8a7a"
+     id="text183">フェーズ2：J&amp;T環境・滋賀展開（バイオプラと一括回収）</text>
+  <!-- J&T環境 → 農地還元（発酵残渣・肥料）-->
+  <text
+     x="1059.7162"
+     y="720.56628"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#3a8a7a"
+     id="text185"
+     style="font-size:9.33333px;fill:#9a6e00">発酵残渣・肥料</text>
+  <rect
+     x="47.959522"
+     y="975.87787"
+     width="161.23936"
+     height="156.51125"
+     rx="2"
+     fill="#ffffff"
+     fill-opacity="0.82"
+     stroke="#cccccc"
+     stroke-width="1"
+     id="rect185"
+     style="fill:#fafcff;fill-opacity:1;stroke:#2e75b6" />
+  <text
+     x="65.66243"
+     y="974.51971"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10.2662px"
+     font-weight="bold"
+     fill="#555555"
+     id="text186"
+     transform="scale(0.9740657,1.0266248)"
+     style="stroke-width:1">凡例</text>
+  <line
+     x1="62.259815"
+     y1="1023.6531"
+     x2="103.26507"
+     y2="1023.6531"
+     stroke="#7a3b10"
+     stroke-width="2"
+     marker-end="url(#a-brn)"
+     id="line186" />
+  <text
+     x="117.94637"
+     y="1001.212"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.23962px"
+     fill="#555555"
+     id="text187"
+     transform="scale(0.9740657,1.0266248)"
+     style="stroke-width:1">物質フロー</text>
+  <line
+     x1="62.259815"
+     y1="1051.2273"
+     x2="103.26507"
+     y2="1051.2273"
+     stroke="#c55a11"
+     stroke-width="2"
+     marker-end="url(#a-org)"
+     id="line187" />
+  <text
+     x="117.43819"
+     y="1028.2067"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.23962px"
+     fill="#555555"
+     id="text188"
+     transform="scale(0.9740657,1.0266248)"
+     style="stroke-width:1">エネルギーフロー</text>
+  <line
+     x1="62.259815"
+     y1="1078.8015"
+     x2="103.26507"
+     y2="1078.8015"
+     stroke="#2a5090"
+     stroke-width="2"
+     marker-end="url(#a-blu)"
+     id="line188"
+     style="stroke:#9a6e00;stroke-dasharray:8, 4;stroke-dashoffset:0;marker-end:url(#a-gld)" />
+  <text
+     x="118.02034"
+     y="1054.9056"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.23962px"
+     fill="#555555"
+     id="text189"
+     transform="scale(0.9740657,1.0266248)"
+     style="stroke-width:1">農地還元</text>
+  <line
+     x1="62.259815"
+     y1="1106.3761"
+     x2="103.26507"
+     y2="1106.3761"
+     stroke="#1e7080"
+     stroke-width="2"
+     marker-end="url(#a-tel)"
+     id="line189"
+     style="stroke:#2a7a4a;stroke-dasharray:8, 4;stroke-dashoffset:0;marker-end:url(#a-tea)" />
+  <text
+     x="117.9742"
+     y="1081.7896"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.23962px"
+     fill="#555555"
+     id="text190"
+     transform="scale(0.9740657,1.0266248)"
+     style="stroke-width:1">将来構想</text>
+  <text
+     x="1356.803"
+     y="1153.2576"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#999999"
+     id="text197">CC BY-SA 4.0 | Libre Food System | librefoodsystem.org</text>
+  <text
+     xml:space="preserve"
+     id="text198"
+     style="font-size:10px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect198);display:inline;fill:#2f5496;stroke:#1a6030;stroke-width:2.5" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8)"
+     d="M 84.162883,290.31497 V 154.54845 l 329.121947,0"
+     id="path13"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8-0)"
+     d="m 120.78659,291.19945 0,-68.28685 h 166.52032"
+     id="path13-8"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8)"
+     d="m 542.34505,410.84945 v 80.34728 l 59.95034,-0.43103"
+     id="path14"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8-16)"
+     d="m 833.50762,411.30885 v 129.89086 l 107.54311,-0.43103"
+     id="path14-7"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8-54)"
+     d="m 855.7225,411.34979 v 70.10297 l 84.83521,-0.43103"
+     id="path14-3"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8-14)"
+     d="m 346.19052,240.26889 v 82.17553 l 62.12731,-0.43103"
+     id="path14-2"
+     sodipodi:nodetypes="ccc" />
+  <text
+     xml:space="preserve"
+     id="text19"
+     style="font-size:10px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect19);display:inline;fill:#ffffff;stroke:#1a6030;stroke-width:2.5" />
+  <path
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;marker-end:url(#a-brn-8)"
+     d="m 101.72227,769.72897 v 25.91807 h 193.05359"
+     id="path19"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#a-brn-8)"
+     d="m 922.7931,934.81768 0,24.90645 h 518.1035 v -38.7931"
+     id="path20"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#2a7a4a;stroke-width:1.5;stroke-dasharray:6.25, 3.75;stroke-dashoffset:0;marker-end:url(#a-tea)"
+     d="m 1344.4828,1044.8276 v -30.1724 H 853.10345 l 0,-79.17313"
+     id="path21"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#9a6e00;stroke-width:2.5;stroke-dasharray:9.99996, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld)"
+     d="m 1172.7931,729.55172 h -160.3448 l 0,121.79703"
+     id="path22"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#9a6e00;stroke-width:2.5;stroke-dasharray:9.99996, 6.66667;stroke-dashoffset:0;marker-end:url(#a-gld-0)"
+     d="m 941.69645,611.74593 -15.22287,0 0,239.68321"
+     id="path22-8"
+     sodipodi:nodetypes="ccc" />
+  <text
+     x="1134.6578"
+     y="1063.0089"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#7a6a3a"
+     id="text126-6">つばめBHB</text>
+  <text
+     x="1134.5009"
+     y="1078.5779"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="10px"
+     fill="#7a6a3a"
+     id="text127-0">N₂ ＋ H₂ → NH₃</text>
+  <text
+     x="1137.3317"
+     y="1093.5779"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#7a6a3a"
+     id="text128-2">エレクトライド触媒（東工大発）</text>
+  <text
+     x="1134.8708"
+     y="1106.5779"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#7a6a3a"
+     id="text129-4">低温・低圧・小型分散型</text>
+  <text
+     x="383.10202"
+     y="619.89148"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9.5px"
+     font-weight="bold"
+     fill="#3a8a7a"
+     id="text17-6">別途資料：バイオマスカスケード発電仕様書・概念図（要開発）</text>
+  <text
+     x="1017.2885"
+     y="664.09003"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#3a8a7a"
+     id="text185-1"
+     style="font-size:9.33333px;fill:#7a3b10">サーマルリサイクル時</text>
+  <text
+     x="1017.5964"
+     y="649.99664"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="8.5px"
+     fill="#3a8a7a"
+     id="text185-1-1"
+     style="font-size:9.33333px;fill:#7a3b10">燃焼ガス（CO₂含む）</text>
+  <text
+     x="1372.1042"
+     y="423.51773"
+     text-anchor="middle"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#9a6e00"
+     id="text159-8">リサイクルでバイオマス比率を上げていく</text>
+  <text
+     xml:space="preserve"
+     style="font-size:9.33333px;writing-mode:lr-tb;direction:ltr;fill:#8b4513;stroke:#8b4513;stroke-width:2.5"
+     x="317.88617"
+     y="158.53659"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="317.88617"
+       y="158.53659" /></text>
+  <path
+     d="m 1109.5253,539.24078 h 33.9181 V 220.77947 H 714.58027"
+     id="path15"
+     style="fill:none;stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#a-brn-8-8-5)"
+     sodipodi:nodetypes="cccc" />
+  <text
+     xml:space="preserve"
+     style="font-size:9.33333px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none"
+     x="573.17072"
+     y="196.74797"
+     id="text20"><tspan
+       sodipodi:role="line"
+       id="tspan15" /></text>
+  <!-- ===== v3.0 追加：ライム/CO₂/シリカ 閉ループ ===== -->
+  <line
+     x1="713"
+     y1="247"
+     x2="757"
+     y2="247"
+     stroke="#1e7080"
+     stroke-width="1.5"
+     stroke-dasharray="4, 3"
+     id="line1"
+     style="stroke:#7a3b10;marker-end:url(#a-brn-8-82);stroke-dasharray:none" />
+  <text
+     x="768"
+     y="235"
+     font-size="8px"
+     fill="#1e7080"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text21"
+     style="fill:#7a3b10">焼成で出るCO₂は</text>
+  <text
+     x="768"
+     y="247"
+     font-size="8px"
+     fill="#1e7080"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text22"
+     style="fill:#7a3b10">回収して炭酸化・</text>
+  <text
+     x="768"
+     y="259"
+     font-size="8px"
+     fill="#1e7080"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text23"
+     style="fill:#7a3b10">pH調整へ再利用</text>
+  <line
+     x1="874.75037"
+     y1="595.87634"
+     x2="939.53973"
+     y2="595.87634"
+     stroke="#1e7080"
+     stroke-width="1.5"
+     stroke-dasharray="4, 3"
+     id="line26"
+     style="marker-end:url(#a-tel)" />
+  <text
+     x="868.64062"
+     y="591.85022"
+     text-anchor="end"
+     font-size="7.5px"
+     fill="#888888"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text33">搾りかす</text>
+  <text
+     x="868.64062"
+     y="602.85022"
+     text-anchor="end"
+     font-size="7.5px"
+     fill="#888888"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text35">→分離プロセス</text>
+  <rect
+     x="942"
+     y="580"
+     width="167.64"
+     height="42"
+     rx="8"
+     fill="#1e7080"
+     fill-opacity="0.11"
+     stroke="#1e7080"
+     stroke-width="1.8"
+     id="rect35" />
+  <text
+     x="1026"
+     y="598"
+     text-anchor="middle"
+     font-size="11px"
+     font-weight="bold"
+     fill="#1e7080"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text38">シリカ（ケイ酸）回収</text>
+  <text
+     x="1026"
+     y="613"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#888888"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     id="text66">地域内循環の可能性を試験</text>
+  <path
+     style="stroke:#7a3b10;stroke-width:2.5;stroke-dasharray:none;marker-end:url(#a-brn-8-82-1);fill:none"
+     d="M 202.84553,389.02439 V 304.87805 H 319.9187 V 240.2439"
+     id="path66" />
+  <text
+     x="205.47609"
+     y="297.84"
+     font-family="'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+     font-size="9px"
+     fill="#7a3b10"
+     id="text34-6-2"
+     style="font-size:9.33333px">活用時に注意事項あり</text>
+</svg>

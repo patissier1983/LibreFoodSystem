@@ -20,11 +20,11 @@ All contents are published under CC BY-SA 4.0. Use, adaptation, and implementati
 
 | ファイル | 内容 |
 |---------|------|
-| `biwako_system_2_proposal_v2.md` | 提案書 v2.0（日本語） / Proposal v2.0 (Japanese) |
-| `biomass_cascade_spec_v2.md` | 仕様書 v2.0（日本語） / Technical Specification v2.0 (Japanese) |
-| `biwako-system-2-concept-v2.svg` | 琵琶湖システム全体概念図 v2.0 |
-| `biomass-cascade-concept-v2a.svg` | カスケード発電概念図 2A（新設版：抽気復水タービン） |
-| `biomass-cascade-concept-v2b.svg` | カスケード発電概念図 2B（改造版：既存復水機＋let-downタービン） |
+| `biwako-system-2-proposal-v3.md` | 提案書 v3.0（日本語） / Proposal v2.0 (Japanese) |
+| `biomass-cascade-spec-v3.md` | 仕様書 v3.0（日本語） / Technical Specification v2.0 (Japanese) |
+| `biwako-system-2-concept-v3.svg` | 琵琶湖システム全体概念図 v2.0 |
+| `biomass-cascade-concept-v3a.svg` | カスケード発電概念図 v3.0A（新設版：抽気復水タービン） |
+| `biomass-cascade-concept-v3b.svg` | カスケード発電概念図 v3.0B（改造版：既存復水機＋let-downタービン） |
 
 ---
 
